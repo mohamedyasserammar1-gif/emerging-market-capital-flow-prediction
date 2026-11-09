@@ -1,0 +1,2393 @@
+country,portfolio_investment,quarter
+Argentina,"2,726",2000-Q1
+Argentina,"1,275",2000-Q2
+Argentina,"-3,710",2000-Q3
+Argentina,"-1,622",2000-Q4
+Argentina,"-2,660",2001-Q1
+Argentina,"-1,632",2001-Q2
+Argentina,"-2,994",2001-Q3
+Argentina,"-2,429",2001-Q4
+Argentina,"-2,255",2002-Q1
+Argentina,"-1,202",2002-Q2
+Argentina,131,2002-Q3
+Argentina,"-1,791",2002-Q4
+Argentina,"-1,988",2003-Q1
+Argentina,"-2,115",2003-Q2
+Argentina,-565,2003-Q3
+Argentina,"-2,995",2003-Q4
+Argentina,"-3,816",2004-Q1
+Argentina,"-1,099",2004-Q2
+Argentina,"-2,224",2004-Q3
+Argentina,"-2,199",2004-Q4
+Argentina,"-3,105",2005-Q1
+Argentina,-764,2005-Q2
+Argentina,924,2005-Q3
+Argentina,"1,214",2005-Q4
+Argentina,"3,000",2006-Q1
+Argentina,"2,021",2006-Q2
+Argentina,985,2006-Q3
+Argentina,"2,494",2006-Q4
+Argentina,"2,572",2007-Q1
+Argentina,"5,869",2007-Q2
+Argentina,"-1,275",2007-Q3
+Argentina,"1,475",2007-Q4
+Argentina,-320,2008-Q1
+Argentina,"-1,456",2008-Q2
+Argentina,"-2,235",2008-Q3
+Argentina,"-1,713",2008-Q4
+Argentina,23,2009-Q1
+Argentina,-286,2009-Q2
+Argentina,-682,2009-Q3
+Argentina,-563,2009-Q4
+Argentina,190,2010-Q1
+Argentina,62,2010-Q2
+Argentina,433,2010-Q3
+Argentina,"1,991",2010-Q4
+Argentina,746,2011-Q1
+Argentina,373,2011-Q2
+Argentina,-109,2011-Q3
+Argentina,"-1,258",2011-Q4
+Argentina,"1,524",2012-Q1
+Argentina,16,2012-Q2
+Argentina,"-1,570",2012-Q3
+Argentina,145,2012-Q4
+Argentina,248,2013-Q1
+Argentina,-541,2013-Q2
+Argentina,-258,2013-Q3
+Argentina,"1,479",2013-Q4
+Argentina,"1,177",2014-Q1
+Argentina,"-4,118",2014-Q2
+Argentina,607,2014-Q3
+Argentina,-31,2014-Q4
+Argentina,"1,176",2015-Q1
+Argentina,"1,390",2015-Q2
+Argentina,574,2015-Q3
+Argentina,"-2,610",2015-Q4
+Argentina,"4,759",2016-Q1
+Argentina,"12,630",2016-Q2
+Argentina,"7,297",2016-Q3
+Argentina,"11,369",2016-Q4
+Argentina,"15,603",2017-Q1
+Argentina,"5,226",2017-Q2
+Argentina,"7,776",2017-Q3
+Argentina,"12,818",2017-Q4
+Argentina,"16,532",2018-Q1
+Argentina,"-1,332",2018-Q2
+Argentina,"-1,196",2018-Q3
+Argentina,-913,2018-Q4
+Argentina,864,2019-Q1
+Argentina,"-4,716",2019-Q2
+Argentina,-673,2019-Q3
+Argentina,-479,2019-Q4
+Argentina,"-1,120",2020-Q1
+Argentina,"-1,963",2020-Q2
+Argentina,"-2,248",2020-Q3
+Argentina,780,2020-Q4
+Argentina,"-1,222",2021-Q1
+Argentina,-855,2021-Q2
+Argentina,-756,2021-Q3
+Argentina,-611,2021-Q4
+Argentina,"-1,365",2022-Q1
+Argentina,"-1,082",2022-Q2
+Argentina,"-1,183",2022-Q3
+Argentina,"-1,455",2022-Q4
+Argentina,"-1,838",2023-Q1
+Argentina,-114,2023-Q2
+Argentina,"-1,838",2023-Q3
+Argentina,-425,2023-Q4
+Argentina,-427,2024-Q1
+Argentina,860,2024-Q2
+Argentina,"-1,073",2024-Q3
+Argentina,"1,125",2024-Q4
+Argentina,-341,2025-Q1
+Argentina,764,2025-Q2
+Argentina,16,2025-Q3
+Argentina,437,2025-Q4
+Brazil,"3,350",2000-Q1
+Brazil,"1,252",2000-Q2
+Brazil,"3,719",2000-Q3
+Brazil,330,2000-Q4
+Brazil,"2,882",2001-Q1
+Brazil,-794,2001-Q2
+Brazil,"2,158",2001-Q3
+Brazil,"-3,374",2001-Q4
+Brazil,"2,660",2002-Q1
+Brazil,"-1,424",2002-Q2
+Brazil,"-3,724",2002-Q3
+Brazil,"-2,310",2002-Q4
+Brazil,"1,080",2003-Q1
+Brazil,"2,915",2003-Q2
+Brazil,-345,2003-Q3
+Brazil,"1,479",2003-Q4
+Brazil,"2,454",2004-Q1
+Brazil,"-5,611",2004-Q2
+Brazil,-508,2004-Q3
+Brazil,-331,2004-Q4
+Brazil,"5,850",2005-Q1
+Brazil,-305,2005-Q2
+Brazil,299,2005-Q3
+Brazil,812,2005-Q4
+Brazil,"6,239",2006-Q1
+Brazil,"-7,967",2006-Q2
+Brazil,"3,445",2006-Q3
+Brazil,"7,359",2006-Q4
+Brazil,"9,081",2007-Q1
+Brazil,"15,099",2007-Q2
+Brazil,"11,910",2007-Q3
+Brazil,"12,321",2007-Q4
+Brazil,"6,870",2008-Q1
+Brazil,"7,207",2008-Q2
+Brazil,"4,595",2008-Q3
+Brazil,"-17,618",2008-Q4
+Brazil,"-2,844",2009-Q1
+Brazil,"5,895",2009-Q2
+Brazil,"21,348",2009-Q3
+Brazil,"23,616",2009-Q4
+Brazil,"10,631",2010-Q1
+Brazil,"13,993",2010-Q2
+Brazil,"21,747",2010-Q3
+Brazil,"25,278",2010-Q4
+Brazil,"8,282",2011-Q1
+Brazil,"7,054",2011-Q2
+Brazil,"6,218",2011-Q3
+Brazil,"2,839",2011-Q4
+Brazil,"10,070",2012-Q1
+Brazil,508,2012-Q2
+Brazil,"7,256",2012-Q3
+Brazil,"5,395",2012-Q4
+Brazil,"11,345",2013-Q1
+Brazil,"9,327",2013-Q2
+Brazil,"21,275",2013-Q3
+Brazil,-684,2013-Q4
+Brazil,"14,856",2014-Q1
+Brazil,"19,867",2014-Q2
+Brazil,"12,527",2014-Q3
+Brazil,"-3,011",2014-Q4
+Brazil,"17,630",2015-Q1
+Brazil,"10,036",2015-Q2
+Brazil,"-9,943",2015-Q3
+Brazil,"-3,453",2015-Q4
+Brazil,"-6,905",2016-Q1
+Brazil,"-3,101",2016-Q2
+Brazil,"-6,893",2016-Q3
+Brazil,"-3,733",2016-Q4
+Brazil,"-4,949",2017-Q1
+Brazil,-768,2017-Q2
+Brazil,"2,928",2017-Q3
+Brazil,"-2,565",2017-Q4
+Brazil,"4,471",2018-Q1
+Brazil,"-2,118",2018-Q2
+Brazil,603,2018-Q3
+Brazil,"-9,233",2018-Q4
+Brazil,"10,673",2019-Q1
+Brazil,"-5,149",2019-Q2
+Brazil,"-6,728",2019-Q3
+Brazil,"-9,018",2019-Q4
+Brazil,"-21,706",2020-Q1
+Brazil,"-4,255",2020-Q2
+Brazil,"2,039",2020-Q3
+Brazil,"22,040",2020-Q4
+Brazil,"6,451",2021-Q1
+Brazil,"12,856",2021-Q2
+Brazil,"3,706",2021-Q3
+Brazil,250,2021-Q4
+Brazil,771,2022-Q1
+Brazil,"-7,479",2022-Q2
+Brazil,"-2,805",2022-Q3
+Brazil,"6,451",2022-Q4
+Brazil,907,2023-Q1
+Brazil,"6,982",2023-Q2
+Brazil,"2,611",2023-Q3
+Brazil,"3,283",2023-Q4
+Brazil,"6,223",2024-Q1
+Brazil,"-1,493",2024-Q2
+Brazil,"7,464",2024-Q3
+Brazil,553,2024-Q4
+Brazil,"4,690",2025-Q1
+Brazil,"2,310",2025-Q2
+Brazil,"1,835",2025-Q3
+Brazil,"1,840",2025-Q4
+Chile,-332,2000-Q1
+Chile,-190,2000-Q2
+Chile,299,2000-Q3
+Chile,96,2000-Q4
+Chile,-25,2001-Q1
+Chile,381,2001-Q2
+Chile,848,2001-Q3
+Chile,321,2001-Q4
+Chile,-80,2002-Q1
+Chile,790,2002-Q2
+Chile,-151,2002-Q3
+Chile,439,2002-Q4
+Chile,"1,047",2003-Q1
+Chile,-35,2003-Q2
+Chile,-113,2003-Q3
+Chile,512,2003-Q4
+Chile,904,2004-Q1
+Chile,-223,2004-Q2
+Chile,-172,2004-Q3
+Chile,965,2004-Q4
+Chile,-13,2005-Q1
+Chile,-16,2005-Q2
+Chile,59,2005-Q3
+Chile,"1,042",2005-Q4
+Chile,2,2006-Q1
+Chile,357,2006-Q2
+Chile,21,2006-Q3
+Chile,192,2006-Q4
+Chile,35,2007-Q1
+Chile,297,2007-Q2
+Chile,-709,2007-Q3
+Chile,104,2007-Q4
+Chile,-583,2008-Q1
+Chile,788,2008-Q2
+Chile,"1,500",2008-Q3
+Chile,117,2008-Q4
+Chile,"1,284",2009-Q1
+Chile,-947,2009-Q2
+Chile,786,2009-Q3
+Chile,"1,350",2009-Q4
+Chile,"1,383",2010-Q1
+Chile,915,2010-Q2
+Chile,"3,542",2010-Q3
+Chile,"3,421",2010-Q4
+Chile,"2,376",2011-Q1
+Chile,"1,740",2011-Q2
+Chile,"1,870",2011-Q3
+Chile,"3,751",2011-Q4
+Chile,"2,269",2012-Q1
+Chile,"4,008",2012-Q2
+Chile,"3,658",2012-Q3
+Chile,"2,026",2012-Q4
+Chile,"4,833",2013-Q1
+Chile,"4,522",2013-Q2
+Chile,"2,168",2013-Q3
+Chile,"3,916",2013-Q4
+Chile,-79,2014-Q1
+Chile,"3,026",2014-Q2
+Chile,"5,554",2014-Q3
+Chile,"3,560",2014-Q4
+Chile,719,2015-Q1
+Chile,"2,679",2015-Q2
+Chile,14,2015-Q3
+Chile,-765,2015-Q4
+Chile,654,2016-Q1
+Chile,709,2016-Q2
+Chile,750,2016-Q3
+Chile,676,2016-Q4
+Chile,387,2017-Q1
+Chile,"3,517",2017-Q2
+Chile,"1,977",2017-Q3
+Chile,"3,527",2017-Q4
+Chile,"1,340",2018-Q1
+Chile,403,2018-Q2
+Chile,"1,236",2018-Q3
+Chile,"2,386",2018-Q4
+Chile,"1,357",2019-Q1
+Chile,"2,686",2019-Q2
+Chile,"2,034",2019-Q3
+Chile,"5,364",2019-Q4
+Chile,"7,151",2020-Q1
+Chile,"2,499",2020-Q2
+Chile,"-1,360",2020-Q3
+Chile,"-1,131",2020-Q4
+Chile,"4,236",2021-Q1
+Chile,"6,509",2021-Q2
+Chile,"16,558",2021-Q3
+Chile,"5,507",2021-Q4
+Chile,"8,350",2022-Q1
+Chile,744,2022-Q2
+Chile,"-2,461",2022-Q3
+Chile,"6,456",2022-Q4
+Chile,-392,2023-Q1
+Chile,-9,2023-Q2
+Chile,"4,373",2023-Q3
+Chile,120,2023-Q4
+Chile,"2,460",2024-Q1
+Chile,56,2024-Q2
+Chile,"1,965",2024-Q3
+Chile,-500,2024-Q4
+Chile,919,2025-Q1
+Chile,538,2025-Q2
+Chile,650,2025-Q3
+Chile,332,2025-Q4
+"China, People's Republic of",-70,2000-Q1
+"China, People's Republic of","3,453",2000-Q2
+"China, People's Republic of",304,2000-Q3
+"China, People's Republic of","3,630",2000-Q4
+"China, People's Republic of","6,823",2001-Q1
+"China, People's Republic of","-5,098",2001-Q2
+"China, People's Republic of","1,349",2001-Q3
+"China, People's Republic of","-1,825",2001-Q4
+"China, People's Republic of",75,2002-Q1
+"China, People's Republic of",-650,2002-Q2
+"China, People's Republic of",-43,2002-Q3
+"China, People's Republic of","2,370",2002-Q4
+"China, People's Republic of",324,2003-Q1
+"China, People's Republic of",344,2003-Q2
+"China, People's Republic of",194,2003-Q3
+"China, People's Republic of","7,581",2003-Q4
+"China, People's Republic of","1,534",2004-Q1
+"China, People's Republic of","5,235",2004-Q2
+"China, People's Republic of","1,749",2004-Q3
+"China, People's Republic of","4,685",2004-Q4
+"China, People's Republic of",687,2005-Q1
+"China, People's Republic of","7,028",2005-Q2
+"China, People's Republic of","4,328",2005-Q3
+"China, People's Republic of","9,404",2005-Q4
+"China, People's Republic of","1,914",2006-Q1
+"China, People's Republic of","13,636",2006-Q2
+"China, People's Republic of","4,558",2006-Q3
+"China, People's Republic of","22,753",2006-Q4
+"China, People's Republic of","1,575",2007-Q1
+"China, People's Republic of","8,645",2007-Q2
+"China, People's Republic of","2,449",2007-Q3
+"China, People's Republic of","8,296",2007-Q4
+"China, People's Republic of","3,277",2008-Q1
+"China, People's Republic of","1,817",2008-Q2
+"China, People's Republic of","2,486",2008-Q3
+"China, People's Republic of","2,074",2008-Q4
+"China, People's Republic of",664,2009-Q1
+"China, People's Republic of","11,789",2009-Q2
+"China, People's Republic of","5,265",2009-Q3
+"China, People's Republic of","11,895",2009-Q4
+"China, People's Republic of","1,569",2010-Q1
+"China, People's Republic of","-1,621",2010-Q2
+"China, People's Republic of","14,691",2010-Q3
+"China, People's Republic of","17,043",2010-Q4
+"China, People's Republic of",167,2011-Q1
+"China, People's Republic of","7,712",2011-Q2
+"China, People's Republic of","5,819",2011-Q3
+"China, People's Republic of",-307,2011-Q4
+"China, People's Republic of","5,874",2012-Q1
+"China, People's Republic of","8,663",2012-Q2
+"China, People's Republic of","15,174",2012-Q3
+"China, People's Republic of","24,459",2012-Q4
+"China, People's Republic of","14,258",2013-Q1
+"China, People's Republic of","10,691",2013-Q2
+"China, People's Republic of","7,574",2013-Q3
+"China, People's Republic of","25,721",2013-Q4
+"China, People's Republic of","20,552",2014-Q1
+"China, People's Republic of","13,834",2014-Q2
+"China, People's Republic of","27,316",2014-Q3
+"China, People's Republic of","31,541",2014-Q4
+"China, People's Republic of","17,041",2015-Q1
+"China, People's Republic of","16,101",2015-Q2
+"China, People's Republic of","-17,144",2015-Q3
+"China, People's Republic of","-9,260",2015-Q4
+"China, People's Republic of","-18,976",2016-Q1
+"China, People's Republic of","24,090",2016-Q2
+"China, People's Republic of","26,939",2016-Q3
+"China, People's Republic of","18,446",2016-Q4
+"China, People's Republic of","14,169",2017-Q1
+"China, People's Republic of","15,012",2017-Q2
+"China, People's Republic of","59,130",2017-Q3
+"China, People's Republic of","35,990",2017-Q4
+"China, People's Republic of","43,787",2018-Q1
+"China, People's Republic of","65,250",2018-Q2
+"China, People's Republic of","43,273",2018-Q3
+"China, People's Republic of","8,071",2018-Q4
+"China, People's Republic of","35,652",2019-Q1
+"China, People's Republic of","26,405",2019-Q2
+"China, People's Republic of","44,179",2019-Q3
+"China, People's Republic of","41,130",2019-Q4
+"China, People's Republic of","-6,229",2020-Q1
+"China, People's Republic of","63,149",2020-Q2
+"China, People's Republic of","90,409",2020-Q3
+"China, People's Republic of","99,446",2020-Q4
+"China, People's Republic of","59,869",2021-Q1
+"China, People's Republic of","29,053",2021-Q2
+"China, People's Republic of","25,981",2021-Q3
+"China, People's Republic of","61,725",2021-Q4
+"China, People's Republic of","-37,227",2022-Q1
+"China, People's Republic of","-37,763",2022-Q2
+"China, People's Republic of","-38,202",2022-Q3
+"China, People's Republic of","4,211",2022-Q4
+"China, People's Republic of","-18,316",2023-Q1
+"China, People's Republic of","8,336",2023-Q2
+"China, People's Republic of","-21,775",2023-Q3
+"China, People's Republic of","45,813",2023-Q4
+"China, People's Republic of","32,214",2024-Q1
+"China, People's Republic of","36,903",2024-Q2
+"China, People's Republic of","35,300",2024-Q3
+"China, People's Republic of","-9,417",2024-Q4
+"China, People's Republic of","-5,000",2025-Q1
+"China, People's Republic of","-5,000",2025-Q2
+"China, People's Republic of","-5,000",2025-Q3
+"China, People's Republic of","-10,000",2025-Q4
+Colombia,772,2000-Q1
+Colombia,175,2000-Q2
+Colombia,112,2000-Q3
+Colombia,395,2000-Q4
+Colombia,739,2001-Q1
+Colombia,"1,808",2001-Q2
+Colombia,144,2001-Q3
+Colombia,759,2001-Q4
+Colombia,-646,2002-Q1
+Colombia,-656,2002-Q2
+Colombia,38,2002-Q3
+Colombia,331,2002-Q4
+Colombia,25,2003-Q1
+Colombia,-359,2003-Q2
+Colombia,95,2003-Q3
+Colombia,369,2003-Q4
+Colombia,171,2004-Q1
+Colombia,-63,2004-Q2
+Colombia,588,2004-Q3
+Colombia,610,2004-Q4
+Colombia,427,2005-Q1
+Colombia,-701,2005-Q2
+Colombia,-52,2005-Q3
+Colombia,273,2005-Q4
+Colombia,-373,2006-Q1
+Colombia,"-1,007",2006-Q2
+Colombia,"1,699",2006-Q3
+Colombia,583,2006-Q4
+Colombia,78,2007-Q1
+Colombia,881,2007-Q2
+Colombia,874,2007-Q3
+Colombia,51,2007-Q4
+Colombia,-185,2008-Q1
+Colombia,-508,2008-Q2
+Colombia,-109,2008-Q3
+Colombia,-392,2008-Q4
+Colombia,974,2009-Q1
+Colombia,435,2009-Q2
+Colombia,"1,826",2009-Q3
+Colombia,"1,433",2009-Q4
+Colombia,-572,2010-Q1
+Colombia,"1,055",2010-Q2
+Colombia,"1,513",2010-Q3
+Colombia,"1,266",2010-Q4
+Colombia,"1,871",2011-Q1
+Colombia,"1,000",2011-Q2
+Colombia,"2,305",2011-Q3
+Colombia,"2,356",2011-Q4
+Colombia,"1,279",2012-Q1
+Colombia,"1,368",2012-Q2
+Colombia,"3,788",2012-Q3
+Colombia,921,2012-Q4
+Colombia,"3,044",2013-Q1
+Colombia,"1,863",2013-Q2
+Colombia,"5,471",2013-Q3
+Colombia,695,2013-Q4
+Colombia,"4,231",2014-Q1
+Colombia,"6,002",2014-Q2
+Colombia,"6,423",2014-Q3
+Colombia,"2,005",2014-Q4
+Colombia,"4,030",2015-Q1
+Colombia,"2,309",2015-Q2
+Colombia,"2,791",2015-Q3
+Colombia,-439,2015-Q4
+Colombia,"2,209",2016-Q1
+Colombia,"2,914",2016-Q2
+Colombia,"2,606",2016-Q3
+Colombia,"2,299",2016-Q4
+Colombia,"1,804",2017-Q1
+Colombia,"1,434",2017-Q2
+Colombia,"2,801",2017-Q3
+Colombia,"1,773",2017-Q4
+Colombia,153,2018-Q1
+Colombia,-259,2018-Q2
+Colombia,581,2018-Q3
+Colombia,-127,2018-Q4
+Colombia,667,2019-Q1
+Colombia,919,2019-Q2
+Colombia,271,2019-Q3
+Colombia,"-1,566",2019-Q4
+Colombia,-703,2020-Q1
+Colombia,"4,682",2020-Q2
+Colombia,"1,959",2020-Q3
+Colombia,"1,577",2020-Q4
+Colombia,-897,2021-Q1
+Colombia,"5,930",2021-Q2
+Colombia,843,2021-Q3
+Colombia,"2,470",2021-Q4
+Colombia,800,2022-Q1
+Colombia,"1,422",2022-Q2
+Colombia,644,2022-Q3
+Colombia,14,2022-Q4
+Colombia,990,2023-Q1
+Colombia,-420,2023-Q2
+Colombia,"-1,552",2023-Q3
+Colombia,"2,098",2023-Q4
+Colombia,583,2024-Q1
+Colombia,"1,502",2024-Q2
+Colombia,"-1,072",2024-Q3
+Colombia,855,2024-Q4
+Colombia,280,2025-Q1
+Colombia,880,2025-Q2
+Colombia,212,2025-Q3
+Colombia,540,2025-Q4
+Czech Republic,188,2000-Q1
+Czech Republic,282,2000-Q2
+Czech Republic,-224,2000-Q3
+Czech Republic,259,2000-Q4
+Czech Republic,294,2001-Q1
+Czech Republic,320,2001-Q2
+Czech Republic,14,2001-Q3
+Czech Republic,162,2001-Q4
+Czech Republic,608,2002-Q1
+Czech Republic,288,2002-Q2
+Czech Republic,348,2002-Q3
+Czech Republic,-392,2002-Q4
+Czech Republic,244,2003-Q1
+Czech Republic,228,2003-Q2
+Czech Republic,40,2003-Q3
+Czech Republic,"1,312",2003-Q4
+Czech Republic,838,2004-Q1
+Czech Republic,"2,244",2004-Q2
+Czech Republic,173,2004-Q3
+Czech Republic,"1,526",2004-Q4
+Czech Republic,476,2005-Q1
+Czech Republic,665,2005-Q2
+Czech Republic,-743,2005-Q3
+Czech Republic,-321,2005-Q4
+Czech Republic,384,2006-Q1
+Czech Republic,-159,2006-Q2
+Czech Republic,108,2006-Q3
+Czech Republic,"1,542",2006-Q4
+Czech Republic,-111,2007-Q1
+Czech Republic,"1,042",2007-Q2
+Czech Republic,-502,2007-Q3
+Czech Republic,"1,680",2007-Q4
+Czech Republic,-840,2008-Q1
+Czech Republic,"3,649",2008-Q2
+Czech Republic,945,2008-Q3
+Czech Republic,"-3,299",2008-Q4
+Czech Republic,-590,2009-Q1
+Czech Republic,"2,728",2009-Q2
+Czech Republic,118,2009-Q3
+Czech Republic,"2,914",2009-Q4
+Czech Republic,727,2010-Q1
+Czech Republic,"2,481",2010-Q2
+Czech Republic,"3,764",2010-Q3
+Czech Republic,126,2010-Q4
+Czech Republic,-458,2011-Q1
+Czech Republic,"1,716",2011-Q2
+Czech Republic,-512,2011-Q3
+Czech Republic,433,2011-Q4
+Czech Republic,"2,490",2012-Q1
+Czech Republic,528,2012-Q2
+Czech Republic,"1,286",2012-Q3
+Czech Republic,-137,2012-Q4
+Czech Republic,767,2013-Q1
+Czech Republic,"2,368",2013-Q2
+Czech Republic,-8,2013-Q3
+Czech Republic,"1,696",2013-Q4
+Czech Republic,"1,557",2014-Q1
+Czech Republic,"-2,928",2014-Q2
+Czech Republic,259,2014-Q3
+Czech Republic,376,2014-Q4
+Czech Republic,"1,190",2015-Q1
+Czech Republic,-460,2015-Q2
+Czech Republic,"2,728",2015-Q3
+Czech Republic,"6,156",2015-Q4
+Czech Republic,"2,320",2016-Q1
+Czech Republic,"2,446",2016-Q2
+Czech Republic,"-2,048",2016-Q3
+Czech Republic,"5,008",2016-Q4
+Czech Republic,"13,837",2017-Q1
+Czech Republic,"3,128",2017-Q2
+Czech Republic,"-6,183",2017-Q3
+Czech Republic,"2,131",2017-Q4
+Czech Republic,"2,140",2018-Q1
+Czech Republic,"-4,201",2018-Q2
+Czech Republic,92,2018-Q3
+Czech Republic,180,2018-Q4
+Czech Republic,"6,373",2019-Q1
+Czech Republic,"1,000",2019-Q2
+Czech Republic,-836,2019-Q3
+Czech Republic,"-2,035",2019-Q4
+Czech Republic,422,2020-Q1
+Czech Republic,"2,549",2020-Q2
+Czech Republic,"-1,304",2020-Q3
+Czech Republic,"6,419",2020-Q4
+Czech Republic,"-2,253",2021-Q1
+Czech Republic,-853,2021-Q2
+Czech Republic,"-3,915",2021-Q3
+Czech Republic,"8,275",2021-Q4
+Czech Republic,"-5,423",2022-Q1
+Czech Republic,"-11,922",2022-Q2
+Czech Republic,"-1,806",2022-Q3
+Czech Republic,"4,762",2022-Q4
+Czech Republic,140,2023-Q1
+Czech Republic,"2,234",2023-Q2
+Czech Republic,"1,893",2023-Q3
+Czech Republic,"-4,814",2023-Q4
+Czech Republic,-291,2024-Q1
+Czech Republic,"2,755",2024-Q2
+Czech Republic,-292,2024-Q3
+Czech Republic,-472,2024-Q4
+Czech Republic,700,2025-Q1
+Czech Republic,"1,050",2025-Q2
+Czech Republic,650,2025-Q3
+Czech Republic,"1,100",2025-Q4
+"Egypt, Arab Republic of","-25,769",2000-Q1
+"Egypt, Arab Republic of",49,2000-Q2
+"Egypt, Arab Republic of",287,2000-Q3
+"Egypt, Arab Republic of",-6,2000-Q4
+"Egypt, Arab Republic of",7,2001-Q1
+"Egypt, Arab Republic of",-27,2001-Q2
+"Egypt, Arab Republic of","1,330",2001-Q3
+"Egypt, Arab Republic of",-66,2001-Q4
+"Egypt, Arab Republic of",-97,2002-Q1
+"Egypt, Arab Republic of",-168,2002-Q2
+"Egypt, Arab Republic of",-288,2002-Q3
+"Egypt, Arab Republic of",-119,2002-Q4
+"Egypt, Arab Republic of",-72,2003-Q1
+"Egypt, Arab Republic of",73,2003-Q2
+"Egypt, Arab Republic of",4,2003-Q3
+"Egypt, Arab Republic of",-23,2003-Q4
+"Egypt, Arab Republic of",19,2004-Q1
+"Egypt, Arab Republic of",-225,2004-Q2
+"Egypt, Arab Republic of",39,2004-Q3
+"Egypt, Arab Republic of",83,2004-Q4
+"Egypt, Arab Republic of",461,2005-Q1
+"Egypt, Arab Republic of",249,2005-Q2
+"Egypt, Arab Republic of","2,579",2005-Q3
+"Egypt, Arab Republic of",239,2005-Q4
+"Egypt, Arab Republic of",30,2006-Q1
+"Egypt, Arab Republic of",-84,2006-Q2
+"Egypt, Arab Republic of",38,2006-Q3
+"Egypt, Arab Republic of",19,2006-Q4
+"Egypt, Arab Republic of",172,2007-Q1
+"Egypt, Arab Republic of","-1,165",2007-Q2
+"Egypt, Arab Republic of","-1,430",2007-Q3
+"Egypt, Arab Republic of",-304,2007-Q4
+"Egypt, Arab Republic of",383,2008-Q1
+"Egypt, Arab Republic of",-23,2008-Q2
+"Egypt, Arab Republic of","-3,485",2008-Q3
+"Egypt, Arab Republic of","-3,902",2008-Q4
+"Egypt, Arab Republic of","-1,503",2009-Q1
+"Egypt, Arab Republic of",-321,2009-Q2
+"Egypt, Arab Republic of","1,186",2009-Q3
+"Egypt, Arab Republic of",378,2009-Q4
+"Egypt, Arab Republic of","5,548",2010-Q1
+"Egypt, Arab Republic of",768,2010-Q2
+"Egypt, Arab Republic of","5,900",2010-Q3
+"Egypt, Arab Republic of","-1,329",2010-Q4
+"Egypt, Arab Republic of","-5,540",2011-Q1
+"Egypt, Arab Republic of","-1,582",2011-Q2
+"Egypt, Arab Republic of","-1,730",2011-Q3
+"Egypt, Arab Republic of","-1,579",2011-Q4
+"Egypt, Arab Republic of","-1,260",2012-Q1
+"Egypt, Arab Republic of",-456,2012-Q2
+"Egypt, Arab Republic of",-327,2012-Q3
+"Egypt, Arab Republic of",67,2012-Q4
+"Egypt, Arab Republic of",-531,2013-Q1
+"Egypt, Arab Republic of","2,268",2013-Q2
+"Egypt, Arab Republic of","1,268",2013-Q3
+"Egypt, Arab Republic of",-42,2013-Q4
+"Egypt, Arab Republic of",-30,2014-Q1
+"Egypt, Arab Republic of",42,2014-Q2
+"Egypt, Arab Republic of",316,2014-Q3
+"Egypt, Arab Republic of","-2,411",2014-Q4
+"Egypt, Arab Republic of",30,2015-Q1
+"Egypt, Arab Republic of","1,427",2015-Q2
+"Egypt, Arab Republic of","-1,406",2015-Q3
+"Egypt, Arab Republic of",-180,2015-Q4
+"Egypt, Arab Republic of",85,2016-Q1
+"Egypt, Arab Republic of",215,2016-Q2
+"Egypt, Arab Republic of",-841,2016-Q3
+"Egypt, Arab Republic of","1,054",2016-Q4
+"Egypt, Arab Republic of","7,588",2017-Q1
+"Egypt, Arab Republic of","8,184",2017-Q2
+"Egypt, Arab Republic of","7,479",2017-Q3
+"Egypt, Arab Republic of",541,2017-Q4
+"Egypt, Arab Republic of","6,906",2018-Q1
+"Egypt, Arab Republic of","-2,830",2018-Q2
+"Egypt, Arab Republic of","-3,240",2018-Q3
+"Egypt, Arab Republic of","-2,650",2018-Q4
+"Egypt, Arab Republic of","6,942",2019-Q1
+"Egypt, Arab Republic of","3,178",2019-Q2
+"Egypt, Arab Republic of","-1,982",2019-Q3
+"Egypt, Arab Republic of","2,255",2019-Q4
+"Egypt, Arab Republic of","-8,218",2020-Q1
+"Egypt, Arab Republic of",637,2020-Q2
+"Egypt, Arab Republic of","6,686",2020-Q3
+"Egypt, Arab Republic of","3,482",2020-Q4
+"Egypt, Arab Republic of","5,818",2021-Q1
+"Egypt, Arab Republic of","2,756",2021-Q2
+"Egypt, Arab Republic of","3,561",2021-Q3
+"Egypt, Arab Republic of","-6,056",2021-Q4
+"Egypt, Arab Republic of","-14,753",2022-Q1
+"Egypt, Arab Republic of","-3,735",2022-Q2
+"Egypt, Arab Republic of","-2,158",2022-Q3
+"Egypt, Arab Republic of",-855,2022-Q4
+"Egypt, Arab Republic of",-413,2023-Q1
+"Egypt, Arab Republic of",-339,2023-Q2
+"Egypt, Arab Republic of",-523,2023-Q3
+"Egypt, Arab Republic of",776,2023-Q4
+"Egypt, Arab Republic of","14,384",2024-Q1
+"Egypt, Arab Republic of",-105,2024-Q2
+"Egypt, Arab Republic of",…,2024-Q3
+"Egypt, Arab Republic of",…,2024-Q4
+"Egypt, Arab Republic of",…,2025-Q1
+"Egypt, Arab Republic of",…,2025-Q2
+"Egypt, Arab Republic of",…,2025-Q3
+"Egypt, Arab Republic of",…,2025-Q4
+Hungary,239,2000-Q1
+Hungary,-724,2000-Q2
+Hungary,-81,2000-Q3
+Hungary,469,2000-Q4
+Hungary,355,2001-Q1
+Hungary,"1,560",2001-Q2
+Hungary,-292,2001-Q3
+Hungary,-28,2001-Q4
+Hungary,280,2002-Q1
+Hungary,-409,2002-Q2
+Hungary,851,2002-Q3
+Hungary,921,2002-Q4
+Hungary,"1,871",2003-Q1
+Hungary,-494,2003-Q2
+Hungary,"1,885",2003-Q3
+Hungary,-777,2003-Q4
+Hungary,"1,041",2004-Q1
+Hungary,265,2004-Q2
+Hungary,"2,764",2004-Q3
+Hungary,"3,272",2004-Q4
+Hungary,"3,445",2005-Q1
+Hungary,"1,020",2005-Q2
+Hungary,"1,842",2005-Q3
+Hungary,-470,2005-Q4
+Hungary,"5,257",2006-Q1
+Hungary,"-2,519",2006-Q2
+Hungary,"2,073",2006-Q3
+Hungary,"3,793",2006-Q4
+Hungary,"3,660",2007-Q1
+Hungary,-426,2007-Q2
+Hungary,"-2,070",2007-Q3
+Hungary,-420,2007-Q4
+Hungary,"2,622",2008-Q1
+Hungary,"1,347",2008-Q2
+Hungary,"2,368",2008-Q3
+Hungary,"-6,786",2008-Q4
+Hungary,"-1,790",2009-Q1
+Hungary,"-1,731",2009-Q2
+Hungary,"2,239",2009-Q3
+Hungary,"-2,585",2009-Q4
+Hungary,"3,702",2010-Q1
+Hungary,"-1,897",2010-Q2
+Hungary,-838,2010-Q3
+Hungary,-809,2010-Q4
+Hungary,"5,841",2011-Q1
+Hungary,"2,602",2011-Q2
+Hungary,611,2011-Q3
+Hungary,"-2,288",2011-Q4
+Hungary,335,2012-Q1
+Hungary,"-1,630",2012-Q2
+Hungary,"2,161",2012-Q3
+Hungary,107,2012-Q4
+Hungary,"1,552",2013-Q1
+Hungary,"1,445",2013-Q2
+Hungary,"-1,103",2013-Q3
+Hungary,"1,724",2013-Q4
+Hungary,"1,735",2014-Q1
+Hungary,-183,2014-Q2
+Hungary,"-3,161",2014-Q3
+Hungary,-206,2014-Q4
+Hungary,"-1,370",2015-Q1
+Hungary,"-1,695",2015-Q2
+Hungary,"-1,430",2015-Q3
+Hungary,"-1,348",2015-Q4
+Hungary,"-2,822",2016-Q1
+Hungary,-233,2016-Q2
+Hungary,-499,2016-Q3
+Hungary,-676,2016-Q4
+Hungary,-467,2017-Q1
+Hungary,"-1,381",2017-Q2
+Hungary,319,2017-Q3
+Hungary,-555,2017-Q4
+Hungary,417,2018-Q1
+Hungary,"-2,019",2018-Q2
+Hungary,402,2018-Q3
+Hungary,"1,253",2018-Q4
+Hungary,"-1,002",2019-Q1
+Hungary,234,2019-Q2
+Hungary,12,2019-Q3
+Hungary,-683,2019-Q4
+Hungary,"-3,536",2020-Q1
+Hungary,"3,295",2020-Q2
+Hungary,298,2020-Q3
+Hungary,"3,487",2020-Q4
+Hungary,"-1,711",2021-Q1
+Hungary,"-1,126",2021-Q2
+Hungary,"5,825",2021-Q3
+Hungary,-163,2021-Q4
+Hungary,-138,2022-Q1
+Hungary,"1,286",2022-Q2
+Hungary,"1,913",2022-Q3
+Hungary,"3,772",2022-Q4
+Hungary,"5,048",2023-Q1
+Hungary,"3,445",2023-Q2
+Hungary,"2,679",2023-Q3
+Hungary,"4,943",2023-Q4
+Hungary,"4,796",2024-Q1
+Hungary,"-2,097",2024-Q2
+Hungary,-597,2024-Q3
+Hungary,"2,398",2024-Q4
+Hungary,701,2025-Q1
+Hungary,"1,209",2025-Q2
+Hungary,"2,515",2025-Q3
+Hungary,"1,775",2025-Q4
+India,"1,328",2000-Q1
+India,789,2000-Q2
+India,401,2000-Q3
+India,-37,2000-Q4
+India,"1,607",2001-Q1
+India,950,2001-Q2
+India,260,2001-Q3
+India,133,2001-Q4
+India,678,2002-Q1
+India,-238,2002-Q2
+India,-121,2002-Q3
+India,744,2002-Q4
+India,593,2003-Q1
+India,"1,376",2003-Q2
+India,"2,136",2003-Q3
+India,"4,111",2003-Q4
+India,"3,733",2004-Q1
+India,156,2004-Q2
+India,464,2004-Q3
+India,"4,701",2004-Q4
+India,"3,990",2005-Q1
+India,972,2005-Q2
+India,"4,441",2005-Q3
+India,"2,748",2005-Q4
+India,"4,333",2006-Q1
+India,-526,2006-Q2
+India,"2,140",2006-Q3
+India,"3,562",2006-Q4
+India,"1,828",2007-Q1
+India,"7,490",2007-Q2
+India,"10,918",2007-Q3
+India,"12,627",2007-Q4
+India,"-3,764",2008-Q1
+India,"-4,177",2008-Q2
+India,"-1,302",2008-Q3
+India,"-5,787",2008-Q4
+India,"-2,588",2009-Q1
+India,"8,227",2009-Q2
+India,"7,038",2009-Q3
+India,"5,254",2009-Q4
+India,"8,530",2010-Q1
+India,"3,538",2010-Q2
+India,"18,760",2010-Q3
+India,"7,158",2010-Q4
+India,-34,2011-Q1
+India,"2,471",2011-Q2
+India,"-1,588",2011-Q3
+India,"1,861",2011-Q4
+India,"14,068",2012-Q1
+India,"-1,706",2012-Q2
+India,"7,903",2012-Q3
+India,"9,845",2012-Q4
+India,"11,540",2013-Q1
+India,-482,2013-Q2
+India,"-6,564",2013-Q3
+India,"2,533",2013-Q4
+India,"9,521",2014-Q1
+India,"12,465",2014-Q2
+India,"9,873",2014-Q3
+India,"6,149",2014-Q4
+India,"12,436",2015-Q1
+India,-216,2015-Q2
+India,"-3,575",2015-Q3
+India,563,2015-Q4
+India,-787,2016-Q1
+India,"1,241",2016-Q2
+India,"6,709",2016-Q3
+India,"-11,314",2016-Q4
+India,"11,131",2017-Q1
+India,"11,921",2017-Q2
+India,"2,437",2017-Q3
+India,"5,430",2017-Q4
+India,"2,375",2018-Q1
+India,"-9,105",2018-Q2
+India,"-2,400",2018-Q3
+India,"-2,188",2018-Q4
+India,"11,469",2019-Q1
+India,"5,156",2019-Q2
+India,"2,006",2019-Q3
+India,"8,133",2019-Q4
+India,"-14,743",2020-Q1
+India,"1,097",2020-Q2
+India,"7,736",2020-Q3
+India,"21,702",2020-Q4
+India,"8,189",2021-Q1
+India,378,2021-Q2
+India,"4,544",2021-Q3
+India,"-4,704",2021-Q4
+India,"-14,289",2022-Q1
+India,"-14,659",2022-Q2
+India,"6,902",2022-Q3
+India,"4,517",2022-Q4
+India,"-1,588",2023-Q1
+India,"16,089",2023-Q2
+India,"5,286",2023-Q3
+India,"11,671",2023-Q4
+India,"11,579",2024-Q1
+India,897,2024-Q2
+India,"15,410",2024-Q3
+India,"-14,800",2024-Q4
+India,"5,000",2025-Q1
+India,"5,500",2025-Q2
+India,"5,500",2025-Q3
+India,"5,500",2025-Q4
+Indonesia,-24,2000-Q1
+Indonesia,"-1,107",2000-Q2
+Indonesia,-386,2000-Q3
+Indonesia,-394,2000-Q4
+Indonesia,-443,2001-Q1
+Indonesia,-90,2001-Q2
+Indonesia,64,2001-Q3
+Indonesia,224,2001-Q4
+Indonesia,88,2002-Q1
+Indonesia,290,2002-Q2
+Indonesia,360,2002-Q3
+Indonesia,485,2002-Q4
+Indonesia,-189,2003-Q1
+Indonesia,906,2003-Q2
+Indonesia,121,2003-Q3
+Indonesia,"1,414",2003-Q4
+Indonesia,"1,712",2004-Q1
+Indonesia,167,2004-Q2
+Indonesia,924,2004-Q3
+Indonesia,"1,253",2004-Q4
+Indonesia,734,2005-Q1
+Indonesia,-742,2005-Q2
+Indonesia,"2,200",2005-Q3
+Indonesia,"3,078",2005-Q4
+Indonesia,"4,105",2006-Q1
+Indonesia,-611,2006-Q2
+Indonesia,539,2006-Q3
+Indonesia,"2,074",2006-Q4
+Indonesia,"2,988",2007-Q1
+Indonesia,"5,707",2007-Q2
+Indonesia,"1,723",2007-Q3
+Indonesia,-437,2007-Q4
+Indonesia,"2,807",2008-Q1
+Indonesia,"4,127",2008-Q2
+Indonesia,128,2008-Q3
+Indonesia,"-4,003",2008-Q4
+Indonesia,"1,817",2009-Q1
+Indonesia,"1,532",2009-Q2
+Indonesia,"3,303",2009-Q3
+Indonesia,"3,828",2009-Q4
+Indonesia,"6,569",2010-Q1
+Indonesia,"1,241",2010-Q2
+Indonesia,"6,114",2010-Q3
+Indonesia,"1,789",2010-Q4
+Indonesia,"3,749",2011-Q1
+Indonesia,"5,721",2011-Q2
+Indonesia,"-4,662",2011-Q3
+Indonesia,188,2011-Q4
+Indonesia,"3,085",2012-Q1
+Indonesia,"4,058",2012-Q2
+Indonesia,"2,485",2012-Q3
+Indonesia,"5,045",2012-Q4
+Indonesia,"4,786",2013-Q1
+Indonesia,"3,591",2013-Q2
+Indonesia,"2,182",2013-Q3
+Indonesia,"1,586",2013-Q4
+Indonesia,"8,265",2014-Q1
+Indonesia,"9,038",2014-Q2
+Indonesia,"6,110",2014-Q3
+Indonesia,68,2014-Q4
+Indonesia,"8,484",2015-Q1
+Indonesia,"6,266",2015-Q2
+Indonesia,"-1,505",2015-Q3
+Indonesia,"4,206",2015-Q4
+Indonesia,"4,605",2016-Q1
+Indonesia,"7,902",2016-Q2
+Indonesia,"4,625",2016-Q3
+Indonesia,-355,2016-Q4
+Indonesia,"7,555",2017-Q1
+Indonesia,"8,349",2017-Q2
+Indonesia,"4,572",2017-Q3
+Indonesia,"3,938",2017-Q4
+Indonesia,294,2018-Q1
+Indonesia,"1,357",2018-Q2
+Indonesia,"1,342",2018-Q3
+Indonesia,"11,489",2018-Q4
+Indonesia,"5,402",2019-Q1
+Indonesia,"4,588",2019-Q2
+Indonesia,"4,644",2019-Q3
+Indonesia,"6,946",2019-Q4
+Indonesia,"-6,255",2020-Q1
+Indonesia,"9,925",2020-Q2
+Indonesia,"-1,707",2020-Q3
+Indonesia,"2,605",2020-Q4
+Indonesia,"5,240",2021-Q1
+Indonesia,"4,655",2021-Q2
+Indonesia,"1,519",2021-Q3
+Indonesia,"-4,551",2021-Q4
+Indonesia,"-1,805",2022-Q1
+Indonesia,"-2,314",2022-Q2
+Indonesia,"-1,497",2022-Q3
+Indonesia,-969,2022-Q4
+Indonesia,"4,288",2023-Q1
+Indonesia,"-1,822",2023-Q2
+Indonesia,"-2,476",2023-Q3
+Indonesia,"5,115",2023-Q4
+Indonesia,-489,2024-Q1
+Indonesia,"4,245",2024-Q2
+Indonesia,"10,800",2024-Q3
+Indonesia,-556,2024-Q4
+Indonesia,"3,000",2025-Q1
+Indonesia,"3,000",2025-Q2
+Indonesia,"3,000",2025-Q3
+Indonesia,"3,000",2025-Q4
+"Korea, Republic of","8,638",2000-Q1
+"Korea, Republic of","2,033",2000-Q2
+"Korea, Republic of",988,2000-Q3
+"Korea, Republic of","1,038",2000-Q4
+"Korea, Republic of","2,016",2001-Q1
+"Korea, Republic of","3,364",2001-Q2
+"Korea, Republic of",333,2001-Q3
+"Korea, Republic of","6,515",2001-Q4
+"Korea, Republic of","-1,262",2002-Q1
+"Korea, Republic of","-1,370",2002-Q2
+"Korea, Republic of","1,927",2002-Q3
+"Korea, Republic of","6,083",2002-Q4
+"Korea, Republic of",130,2003-Q1
+"Korea, Republic of","5,602",2003-Q2
+"Korea, Republic of","8,412",2003-Q3
+"Korea, Republic of","8,547",2003-Q4
+"Korea, Republic of","12,196",2004-Q1
+"Korea, Republic of","2,169",2004-Q2
+"Korea, Republic of","3,482",2004-Q3
+"Korea, Republic of",528,2004-Q4
+"Korea, Republic of","2,001",2005-Q1
+"Korea, Republic of","1,539",2005-Q2
+"Korea, Republic of","4,901",2005-Q3
+"Korea, Republic of","5,673",2005-Q4
+"Korea, Republic of","7,784",2006-Q1
+"Korea, Republic of","-2,301",2006-Q2
+"Korea, Republic of","-1,861",2006-Q3
+"Korea, Republic of","4,279",2006-Q4
+"Korea, Republic of","4,906",2007-Q1
+"Korea, Republic of","11,782",2007-Q2
+"Korea, Republic of",-452,2007-Q3
+"Korea, Republic of","13,130",2007-Q4
+"Korea, Republic of","-4,038",2008-Q1
+"Korea, Republic of","8,172",2008-Q2
+"Korea, Republic of","-15,206",2008-Q3
+"Korea, Republic of","-14,829",2008-Q4
+"Korea, Republic of","1,045",2009-Q1
+"Korea, Republic of","17,711",2009-Q2
+"Korea, Republic of","22,876",2009-Q3
+"Korea, Republic of","8,155",2009-Q4
+"Korea, Republic of","11,021",2010-Q1
+"Korea, Republic of","8,777",2010-Q2
+"Korea, Republic of","13,987",2010-Q3
+"Korea, Republic of","9,845",2010-Q4
+"Korea, Republic of","2,195",2011-Q1
+"Korea, Republic of","7,888",2011-Q2
+"Korea, Republic of","5,436",2011-Q3
+"Korea, Republic of","1,763",2011-Q4
+"Korea, Republic of","19,357",2012-Q1
+"Korea, Republic of","-3,011",2012-Q2
+"Korea, Republic of","12,336",2012-Q3
+"Korea, Republic of","4,144",2012-Q4
+"Korea, Republic of","3,015",2013-Q1
+"Korea, Republic of","-4,811",2013-Q2
+"Korea, Republic of","14,097",2013-Q3
+"Korea, Republic of","5,849",2013-Q4
+"Korea, Republic of","-3,509",2014-Q1
+"Korea, Republic of","6,397",2014-Q2
+"Korea, Republic of","4,502",2014-Q3
+"Korea, Republic of","1,818",2014-Q4
+"Korea, Republic of","2,711",2015-Q1
+"Korea, Republic of","9,152",2015-Q2
+"Korea, Republic of","-11,200",2015-Q3
+"Korea, Republic of","-8,314",2015-Q4
+"Korea, Republic of","-4,233",2016-Q1
+"Korea, Republic of","2,047",2016-Q2
+"Korea, Republic of","4,334",2016-Q3
+"Korea, Republic of","-5,918",2016-Q4
+"Korea, Republic of","14,990",2017-Q1
+"Korea, Republic of","7,459",2017-Q2
+"Korea, Republic of","-6,250",2017-Q3
+"Korea, Republic of","1,273",2017-Q4
+"Korea, Republic of","10,204",2018-Q1
+"Korea, Republic of","8,300",2018-Q2
+"Korea, Republic of","9,044",2018-Q3
+"Korea, Republic of","-5,937",2018-Q4
+"Korea, Republic of","5,130",2019-Q1
+"Korea, Republic of","14,829",2019-Q2
+"Korea, Republic of","4,829",2019-Q3
+"Korea, Republic of","-7,526",2019-Q4
+"Korea, Republic of","-2,800",2020-Q1
+"Korea, Republic of","7,156",2020-Q2
+"Korea, Republic of","9,655",2020-Q3
+"Korea, Republic of","3,150",2020-Q4
+"Korea, Republic of","16,379",2021-Q1
+"Korea, Republic of","16,520",2021-Q2
+"Korea, Republic of","13,045",2021-Q3
+"Korea, Republic of","13,147",2021-Q4
+"Korea, Republic of","11,215",2022-Q1
+"Korea, Republic of",-758,2022-Q2
+"Korea, Republic of","7,360",2022-Q3
+"Korea, Republic of","1,961",2022-Q4
+"Korea, Republic of","4,914",2023-Q1
+"Korea, Republic of","22,607",2023-Q2
+"Korea, Republic of","2,951",2023-Q3
+"Korea, Republic of","7,451",2023-Q4
+"Korea, Republic of","16,328",2024-Q1
+"Korea, Republic of","5,550",2024-Q2
+"Korea, Republic of","5,245",2024-Q3
+"Korea, Republic of","-2,123",2024-Q4
+"Korea, Republic of","2,500",2025-Q1
+"Korea, Republic of","2,500",2025-Q2
+"Korea, Republic of","2,500",2025-Q3
+"Korea, Republic of","2,500",2025-Q4
+Malaysia,"1,066",2000-Q1
+Malaysia,"-1,239",2000-Q2
+Malaysia,"-1,042",2000-Q3
+Malaysia,-930,2000-Q4
+Malaysia,-625,2001-Q1
+Malaysia,-570,2001-Q2
+Malaysia,567,2001-Q3
+Malaysia,-38,2001-Q4
+Malaysia,775,2002-Q1
+Malaysia,-705,2002-Q2
+Malaysia,-541,2002-Q3
+Malaysia,-365,2002-Q4
+Malaysia,-279,2003-Q1
+Malaysia,-179,2003-Q2
+Malaysia,180,2003-Q3
+Malaysia,"1,453",2003-Q4
+Malaysia,"4,268",2004-Q1
+Malaysia,333,2004-Q2
+Malaysia,"1,281",2004-Q3
+Malaysia,"2,793",2004-Q4
+Malaysia,"1,010",2005-Q1
+Malaysia,760,2005-Q2
+Malaysia,-617,2005-Q3
+Malaysia,"-4,138",2005-Q4
+Malaysia,"2,414",2006-Q1
+Malaysia,12,2006-Q2
+Malaysia,"1,235",2006-Q3
+Malaysia,"1,896",2006-Q4
+Malaysia,"6,819",2007-Q1
+Malaysia,"6,217",2007-Q2
+Malaysia,"-6,425",2007-Q3
+Malaysia,"2,708",2007-Q4
+Malaysia,"7,885",2008-Q1
+Malaysia,"-5,715",2008-Q2
+Malaysia,"-15,315",2008-Q3
+Malaysia,"-7,938",2008-Q4
+Malaysia,"-3,196",2009-Q1
+Malaysia,"-1,110",2009-Q2
+Malaysia,"6,528",2009-Q3
+Malaysia,"3,827",2009-Q4
+Malaysia,"5,048",2010-Q1
+Malaysia,"4,871",2010-Q2
+Malaysia,"8,722",2010-Q3
+Malaysia,"3,630",2010-Q4
+Malaysia,"5,633",2011-Q1
+Malaysia,"17,123",2011-Q2
+Malaysia,"-7,356",2011-Q3
+Malaysia,-622,2011-Q4
+Malaysia,"10,666",2012-Q1
+Malaysia,-357,2012-Q2
+Malaysia,"12,573",2012-Q3
+Malaysia,"4,753",2012-Q4
+Malaysia,"2,977",2013-Q1
+Malaysia,"4,781",2013-Q2
+Malaysia,188,2013-Q3
+Malaysia,"1,436",2013-Q4
+Malaysia,"-2,016",2014-Q1
+Malaysia,"5,169",2014-Q2
+Malaysia,-230,2014-Q3
+Malaysia,"-6,116",2014-Q4
+Malaysia,-148,2015-Q1
+Malaysia,"-1,019",2015-Q2
+Malaysia,"-6,186",2015-Q3
+Malaysia,"2,879",2015-Q4
+Malaysia,"5,136",2016-Q1
+Malaysia,"1,202",2016-Q2
+Malaysia,-679,2016-Q3
+Malaysia,"-5,286",2016-Q4
+Malaysia,"-5,259",2017-Q1
+Malaysia,"4,682",2017-Q2
+Malaysia,-214,2017-Q3
+Malaysia,"1,948",2017-Q4
+Malaysia,"2,016",2018-Q1
+Malaysia,"-9,450",2018-Q2
+Malaysia,-946,2018-Q3
+Malaysia,-989,2018-Q4
+Malaysia,"3,735",2019-Q1
+Malaysia,"-1,520",2019-Q2
+Malaysia,"-1,644",2019-Q3
+Malaysia,"2,977",2019-Q4
+Malaysia,"-6,185",2020-Q1
+Malaysia,"5,487",2020-Q2
+Malaysia,115,2020-Q3
+Malaysia,"3,105",2020-Q4
+Malaysia,"3,482",2021-Q1
+Malaysia,"7,411",2021-Q2
+Malaysia,278,2021-Q3
+Malaysia,"2,074",2021-Q4
+Malaysia,"1,458",2022-Q1
+Malaysia,"-2,658",2022-Q2
+Malaysia,-742,2022-Q3
+Malaysia,"-2,376",2022-Q4
+Malaysia,"-3,068",2023-Q1
+Malaysia,"3,933",2023-Q2
+Malaysia,427,2023-Q3
+Malaysia,841,2023-Q4
+Malaysia,-534,2024-Q1
+Malaysia,"1,520",2024-Q2
+Malaysia,"7,994",2024-Q3
+Malaysia,520,2024-Q4
+Malaysia,700,2025-Q1
+Malaysia,700,2025-Q2
+Malaysia,800,2025-Q3
+Malaysia,800,2025-Q4
+Mexico,"3,370",2000-Q1
+Mexico,-748,2000-Q2
+Mexico,168,2000-Q3
+Mexico,"-4,184",2000-Q4
+Mexico,"3,611",2001-Q1
+Mexico,322,2001-Q2
+Mexico,-497,2001-Q3
+Mexico,-506,2001-Q4
+Mexico,"2,475",2002-Q1
+Mexico,"-3,648",2002-Q2
+Mexico,"-1,386",2002-Q3
+Mexico,889,2002-Q4
+Mexico,"2,868",2003-Q1
+Mexico,-312,2003-Q2
+Mexico,"-2,119",2003-Q3
+Mexico,"2,569",2003-Q4
+Mexico,"2,706",2004-Q1
+Mexico,"-3,128",2004-Q2
+Mexico,"3,366",2004-Q3
+Mexico,"2,063",2004-Q4
+Mexico,"5,350",2005-Q1
+Mexico,"1,435",2005-Q2
+Mexico,328,2005-Q3
+Mexico,-53,2005-Q4
+Mexico,"3,129",2006-Q1
+Mexico,"1,138",2006-Q2
+Mexico,"-8,948",2006-Q3
+Mexico,"4,590",2006-Q4
+Mexico,"1,132",2007-Q1
+Mexico,"3,924",2007-Q2
+Mexico,"2,736",2007-Q3
+Mexico,"4,566",2007-Q4
+Mexico,"4,226",2008-Q1
+Mexico,"6,056",2008-Q2
+Mexico,563,2008-Q3
+Mexico,"-5,649",2008-Q4
+Mexico,"-1,053",2009-Q1
+Mexico,"1,038",2009-Q2
+Mexico,"7,823",2009-Q3
+Mexico,"8,005",2009-Q4
+Mexico,"10,538",2010-Q1
+Mexico,"6,509",2010-Q2
+Mexico,"10,149",2010-Q3
+Mexico,"11,200",2010-Q4
+Mexico,"12,463",2011-Q1
+Mexico,"9,646",2011-Q2
+Mexico,"10,542",2011-Q3
+Mexico,"7,771",2011-Q4
+Mexico,"24,245",2012-Q1
+Mexico,"8,683",2012-Q2
+Mexico,"22,627",2012-Q3
+Mexico,"19,162",2012-Q4
+Mexico,"13,439",2013-Q1
+Mexico,"-2,032",2013-Q2
+Mexico,"18,278",2013-Q3
+Mexico,"19,952",2013-Q4
+Mexico,"12,077",2014-Q1
+Mexico,"23,147",2014-Q2
+Mexico,"3,347",2014-Q3
+Mexico,"10,679",2014-Q4
+Mexico,"8,106",2015-Q1
+Mexico,"9,808",2015-Q2
+Mexico,"1,614",2015-Q3
+Mexico,156,2015-Q4
+Mexico,"12,793",2016-Q1
+Mexico,"-4,357",2016-Q2
+Mexico,"10,674",2016-Q3
+Mexico,"10,570",2016-Q4
+Mexico,"11,045",2017-Q1
+Mexico,-126,2017-Q2
+Mexico,"8,722",2017-Q3
+Mexico,"4,371",2017-Q4
+Mexico,"6,152",2018-Q1
+Mexico,"7,196",2018-Q2
+Mexico,"-1,837",2018-Q3
+Mexico,"-2,012",2018-Q4
+Mexico,"8,275",2019-Q1
+Mexico,-975,2019-Q2
+Mexico,"1,704",2019-Q3
+Mexico,"1,484",2019-Q4
+Mexico,"2,812",2020-Q1
+Mexico,"-1,187",2020-Q2
+Mexico,"2,538",2020-Q3
+Mexico,"1,986",2020-Q4
+Mexico,"-1,475",2021-Q1
+Mexico,"-4,191",2021-Q2
+Mexico,"-7,379",2021-Q3
+Mexico,"-5,877",2021-Q4
+Mexico,"3,462",2022-Q1
+Mexico,"-4,774",2022-Q2
+Mexico,"-4,352",2022-Q3
+Mexico,277,2022-Q4
+Mexico,"1,483",2023-Q1
+Mexico,"-5,033",2023-Q2
+Mexico,"-5,133",2023-Q3
+Mexico,"2,294",2023-Q4
+Mexico,"9,843",2024-Q1
+Mexico,"-5,993",2024-Q2
+Mexico,"2,754",2024-Q3
+Mexico,"-2,756",2024-Q4
+Mexico,170,2025-Q1
+Mexico,308,2025-Q2
+Mexico,145,2025-Q3
+Mexico,184,2025-Q4
+Nigeria,…,2000-Q1
+Nigeria,…,2000-Q2
+Nigeria,…,2000-Q3
+Nigeria,…,2000-Q4
+Nigeria,…,2001-Q1
+Nigeria,…,2001-Q2
+Nigeria,…,2001-Q3
+Nigeria,…,2001-Q4
+Nigeria,…,2002-Q1
+Nigeria,…,2002-Q2
+Nigeria,…,2002-Q3
+Nigeria,…,2002-Q4
+Nigeria,…,2003-Q1
+Nigeria,…,2003-Q2
+Nigeria,…,2003-Q3
+Nigeria,…,2003-Q4
+Nigeria,…,2004-Q1
+Nigeria,…,2004-Q2
+Nigeria,…,2004-Q3
+Nigeria,…,2004-Q4
+Nigeria,248,2005-Q1
+Nigeria,356,2005-Q2
+Nigeria,185,2005-Q3
+Nigeria,95,2005-Q4
+Nigeria,792,2006-Q1
+Nigeria,"1,138",2006-Q2
+Nigeria,593,2006-Q3
+Nigeria,303,2006-Q4
+Nigeria,747,2007-Q1
+Nigeria,"1,073",2007-Q2
+Nigeria,559,2007-Q3
+Nigeria,285,2007-Q4
+Nigeria,997,2008-Q1
+Nigeria,221,2008-Q2
+Nigeria,219,2008-Q3
+Nigeria,-102,2008-Q4
+Nigeria,-412,2009-Q1
+Nigeria,273,2009-Q2
+Nigeria,361,2009-Q3
+Nigeria,260,2009-Q4
+Nigeria,853,2010-Q1
+Nigeria,600,2010-Q2
+Nigeria,917,2010-Q3
+Nigeria,"1,378",2010-Q4
+Nigeria,"1,137",2011-Q1
+Nigeria,"1,571",2011-Q2
+Nigeria,"1,130",2011-Q3
+Nigeria,"1,356",2011-Q4
+Nigeria,"3,816",2012-Q1
+Nigeria,"2,621",2012-Q2
+Nigeria,"5,148",2012-Q3
+Nigeria,"5,615",2012-Q4
+Nigeria,"5,963",2013-Q1
+Nigeria,"4,464",2013-Q2
+Nigeria,"1,409",2013-Q3
+Nigeria,"1,816",2013-Q4
+Nigeria,92,2014-Q1
+Nigeria,"2,883",2014-Q2
+Nigeria,"3,088",2014-Q3
+Nigeria,-770,2014-Q4
+Nigeria,269,2015-Q1
+Nigeria,"1,500",2015-Q2
+Nigeria,-387,2015-Q3
+Nigeria,"1,153",2015-Q4
+Nigeria,227,2016-Q1
+Nigeria,563,2016-Q2
+Nigeria,795,2016-Q3
+Nigeria,303,2016-Q4
+Nigeria,46,2017-Q1
+Nigeria,"3,621",2017-Q2
+Nigeria,"5,036",2017-Q3
+Nigeria,"1,810",2017-Q4
+Nigeria,"5,700",2018-Q1
+Nigeria,"-3,136",2018-Q2
+Nigeria,"-6,105",2018-Q3
+Nigeria,"3,935",2018-Q4
+Nigeria,"9,111",2019-Q1
+Nigeria,934,2019-Q2
+Nigeria,"-3,079",2019-Q3
+Nigeria,"-3,788",2019-Q4
+Nigeria,"-5,530",2020-Q1
+Nigeria,678,2020-Q2
+Nigeria,"1,742",2020-Q3
+Nigeria,-477,2020-Q4
+Nigeria,"1,926",2021-Q1
+Nigeria,-273,2021-Q2
+Nigeria,"7,458",2021-Q3
+Nigeria,"-3,012",2021-Q4
+Nigeria,"1,542",2022-Q1
+Nigeria,"1,678",2022-Q2
+Nigeria,998,2022-Q3
+Nigeria,337,2022-Q4
+Nigeria,"-1,170",2023-Q1
+Nigeria,"2,034",2023-Q2
+Nigeria,"2,877",2023-Q3
+Nigeria,"2,726",2023-Q4
+Nigeria,"1,400",2024-Q1
+Nigeria,"4,417",2024-Q2
+Nigeria,"1,200",2024-Q3
+Nigeria,"2,700",2024-Q4
+Nigeria,"1,200",2025-Q1
+Nigeria,"1,200",2025-Q2
+Nigeria,"1,200",2025-Q3
+Nigeria,"1,200",2025-Q4
+Peru,10,2000-Q1
+Peru,98,2000-Q2
+Peru,-20,2000-Q3
+Peru,-12,2000-Q4
+Peru,-14,2001-Q1
+Peru,4,2001-Q2
+Peru,13,2001-Q3
+Peru,-57,2001-Q4
+Peru,"1,277",2002-Q1
+Peru,-7,2002-Q2
+Peru,-14,2002-Q3
+Peru,468,2002-Q4
+Peru,734,2003-Q1
+Peru,-8,2003-Q2
+Peru,-10,2003-Q3
+Peru,495,2003-Q4
+Peru,-7,2004-Q1
+Peru,466,2004-Q2
+Peru,-14,2004-Q3
+Peru,799,2004-Q4
+Peru,437,2005-Q1
+Peru,192,2005-Q2
+Peru,"1,298",2005-Q3
+Peru,652,2005-Q4
+Peru,-29,2006-Q1
+Peru,-24,2006-Q2
+Peru,4,2006-Q3
+Peru,429,2006-Q4
+Peru,"2,359",2007-Q1
+Peru,617,2007-Q2
+Peru,269,2007-Q3
+Peru,785,2007-Q4
+Peru,"2,648",2008-Q1
+Peru,-627,2008-Q2
+Peru,-726,2008-Q3
+Peru,"-1,296",2008-Q4
+Peru,98,2009-Q1
+Peru,-525,2009-Q2
+Peru,"1,248",2009-Q3
+Peru,-63,2009-Q4
+Peru,-213,2010-Q1
+Peru,268,2010-Q2
+Peru,"1,486",2010-Q3
+Peru,"2,339",2010-Q4
+Peru,107,2011-Q1
+Peru,2,2011-Q2
+Peru,413,2011-Q3
+Peru,475,2011-Q4
+Peru,"2,440",2012-Q1
+Peru,827,2012-Q2
+Peru,"1,321",2012-Q3
+Peru,296,2012-Q4
+Peru,"2,244",2013-Q1
+Peru,"3,640",2013-Q2
+Peru,490,2013-Q3
+Peru,-384,2013-Q4
+Peru,333,2014-Q1
+Peru,615,2014-Q2
+Peru,"1,138",2014-Q3
+Peru,"1,085",2014-Q4
+Peru,68,2015-Q1
+Peru,"-1,035",2015-Q2
+Peru,"1,938",2015-Q3
+Peru,920,2015-Q4
+Peru,"1,401",2016-Q1
+Peru,-493,2016-Q2
+Peru,"1,247",2016-Q3
+Peru,291,2016-Q4
+Peru,"1,386",2017-Q1
+Peru,"3,391",2017-Q2
+Peru,"3,716",2017-Q3
+Peru,-530,2017-Q4
+Peru,"-1,164",2018-Q1
+Peru,656,2018-Q2
+Peru,"1,328",2018-Q3
+Peru,"1,301",2018-Q4
+Peru,"2,916",2019-Q1
+Peru,"2,200",2019-Q2
+Peru,-105,2019-Q3
+Peru,-165,2019-Q4
+Peru,871,2020-Q1
+Peru,"2,702",2020-Q2
+Peru,"1,920",2020-Q3
+Peru,"3,316",2020-Q4
+Peru,"6,525",2021-Q1
+Peru,"-1,087",2021-Q2
+Peru,"2,000",2021-Q3
+Peru,"5,287",2021-Q4
+Peru,-897,2022-Q1
+Peru,-542,2022-Q2
+Peru,-614,2022-Q3
+Peru,-969,2022-Q4
+Peru,"-1,014",2023-Q1
+Peru,-701,2023-Q2
+Peru,-483,2023-Q3
+Peru,384,2023-Q4
+Peru,290,2024-Q1
+Peru,53,2024-Q2
+Peru,"3,250",2024-Q3
+Peru,185,2024-Q4
+Peru,29,2025-Q1
+Peru,238,2025-Q2
+Peru,"1,178",2025-Q3
+Peru,197,2025-Q4
+Philippines,"1,083",2000-Q1
+Philippines,-408,2000-Q2
+Philippines,-209,2000-Q3
+Philippines,-207,2000-Q4
+Philippines,-91,2001-Q1
+Philippines,208,2001-Q2
+Philippines,129,2001-Q3
+Philippines,838,2001-Q4
+Philippines,"1,391",2002-Q1
+Philippines,-247,2002-Q2
+Philippines,-683,2002-Q3
+Philippines,913,2002-Q4
+Philippines,864,2003-Q1
+Philippines,-24,2003-Q2
+Philippines,394,2003-Q3
+Philippines,146,2003-Q4
+Philippines,-63,2004-Q1
+Philippines,-440,2004-Q2
+Philippines,421,2004-Q3
+Philippines,-721,2004-Q4
+Philippines,"1,876",2005-Q1
+Philippines,"1,231",2005-Q2
+Philippines,348,2005-Q3
+Philippines,-513,2005-Q4
+Philippines,"2,072",2006-Q1
+Philippines,-540,2006-Q2
+Philippines,"1,931",2006-Q3
+Philippines,115,2006-Q4
+Philippines,"1,461",2007-Q1
+Philippines,641,2007-Q2
+Philippines,284,2007-Q3
+Philippines,-670,2007-Q4
+Philippines,-689,2008-Q1
+Philippines,"-1,534",2008-Q2
+Philippines,-177,2008-Q3
+Philippines,-793,2008-Q4
+Philippines,-517,2009-Q1
+Philippines,918,2009-Q2
+Philippines,"1,380",2009-Q3
+Philippines,507,2009-Q4
+Philippines,"1,299",2010-Q1
+Philippines,447,2010-Q2
+Philippines,"1,382",2010-Q3
+Philippines,"3,230",2010-Q4
+Philippines,"1,620",2011-Q1
+Philippines,"1,659",2011-Q2
+Philippines,647,2011-Q3
+Philippines,-825,2011-Q4
+Philippines,"1,991",2012-Q1
+Philippines,189,2012-Q2
+Philippines,488,2012-Q3
+Philippines,"1,502",2012-Q4
+Philippines,428,2013-Q1
+Philippines,632,2013-Q2
+Philippines,502,2013-Q3
+Philippines,"-1,199",2013-Q4
+Philippines,"-1,572",2014-Q1
+Philippines,"1,181",2014-Q2
+Philippines,659,2014-Q3
+Philippines,-271,2014-Q4
+Philippines,"1,345",2015-Q1
+Philippines,"-2,248",2015-Q2
+Philippines,"-1,479",2015-Q3
+Philippines,254,2015-Q4
+Philippines,-958,2016-Q1
+Philippines,367,2016-Q2
+Philippines,436,2016-Q3
+Philippines,-109,2016-Q4
+Philippines,"-2,644",2017-Q1
+Philippines,585,2017-Q2
+Philippines,114,2017-Q3
+Philippines,"1,149",2017-Q4
+Philippines,-117,2018-Q1
+Philippines,-594,2018-Q2
+Philippines,"1,528",2018-Q3
+Philippines,"2,475",2018-Q4
+Philippines,"3,223",2019-Q1
+Philippines,"1,889",2019-Q2
+Philippines,"1,214",2019-Q3
+Philippines,"-1,449",2019-Q4
+Philippines,-569,2020-Q1
+Philippines,"1,667",2020-Q2
+Philippines,"2,387",2020-Q3
+Philippines,"4,761",2020-Q4
+Philippines,"-3,596",2021-Q1
+Philippines,"2,625",2021-Q2
+Philippines,-154,2021-Q3
+Philippines,"-1,303",2021-Q4
+Philippines,"1,001",2022-Q1
+Philippines,-926,2022-Q2
+Philippines,-558,2022-Q3
+Philippines,"1,885",2022-Q4
+Philippines,"1,047",2023-Q1
+Philippines,-727,2023-Q2
+Philippines,"-1,576",2023-Q3
+Philippines,"1,888",2023-Q4
+Philippines,"2,792",2024-Q1
+Philippines,"1,204",2024-Q2
+Philippines,"1,350",2024-Q3
+Philippines,655,2024-Q4
+Philippines,900,2025-Q1
+Philippines,900,2025-Q2
+Philippines,900,2025-Q3
+Philippines,900,2025-Q4
+"Poland, Republic of",…,2000-Q1
+"Poland, Republic of",…,2000-Q2
+"Poland, Republic of",…,2000-Q3
+"Poland, Republic of",…,2000-Q4
+"Poland, Republic of",…,2001-Q1
+"Poland, Republic of",…,2001-Q2
+"Poland, Republic of",…,2001-Q3
+"Poland, Republic of",…,2001-Q4
+"Poland, Republic of",…,2002-Q1
+"Poland, Republic of",…,2002-Q2
+"Poland, Republic of",…,2002-Q3
+"Poland, Republic of",…,2002-Q4
+"Poland, Republic of",…,2003-Q1
+"Poland, Republic of",…,2003-Q2
+"Poland, Republic of",…,2003-Q3
+"Poland, Republic of",…,2003-Q4
+"Poland, Republic of","4,149",2004-Q1
+"Poland, Republic of","2,243",2004-Q2
+"Poland, Republic of","1,615",2004-Q3
+"Poland, Republic of","2,566",2004-Q4
+"Poland, Republic of","6,260",2005-Q1
+"Poland, Republic of","7,720",2005-Q2
+"Poland, Republic of","1,489",2005-Q3
+"Poland, Republic of",-377,2005-Q4
+"Poland, Republic of","3,806",2006-Q1
+"Poland, Republic of","-2,342",2006-Q2
+"Poland, Republic of",-284,2006-Q3
+"Poland, Republic of",527,2006-Q4
+"Poland, Republic of",-136,2007-Q1
+"Poland, Republic of",-793,2007-Q2
+"Poland, Republic of","-1,441",2007-Q3
+"Poland, Republic of","2,487",2007-Q4
+"Poland, Republic of","-2,678",2008-Q1
+"Poland, Republic of","2,988",2008-Q2
+"Poland, Republic of",-391,2008-Q3
+"Poland, Republic of","-4,639",2008-Q4
+"Poland, Republic of","-1,290",2009-Q1
+"Poland, Republic of","4,595",2009-Q2
+"Poland, Republic of","8,121",2009-Q3
+"Poland, Republic of","4,776",2009-Q4
+"Poland, Republic of","9,807",2010-Q1
+"Poland, Republic of","5,117",2010-Q2
+"Poland, Republic of","10,045",2010-Q3
+"Poland, Republic of","3,639",2010-Q4
+"Poland, Republic of","3,753",2011-Q1
+"Poland, Republic of","6,603",2011-Q2
+"Poland, Republic of","5,189",2011-Q3
+"Poland, Republic of",904,2011-Q4
+"Poland, Republic of","6,021",2012-Q1
+"Poland, Republic of","4,392",2012-Q2
+"Poland, Republic of","5,196",2012-Q3
+"Poland, Republic of","4,605",2012-Q4
+"Poland, Republic of","3,845",2013-Q1
+"Poland, Republic of","-1,875",2013-Q2
+"Poland, Republic of",-624,2013-Q3
+"Poland, Republic of","1,164",2013-Q4
+"Poland, Republic of",-402,2014-Q1
+"Poland, Republic of","6,107",2014-Q2
+"Poland, Republic of","1,622",2014-Q3
+"Poland, Republic of","-3,304",2014-Q4
+"Poland, Republic of","2,152",2015-Q1
+"Poland, Republic of","1,071",2015-Q2
+"Poland, Republic of","1,340",2015-Q3
+"Poland, Republic of","4,336",2015-Q4
+"Poland, Republic of","-6,353",2016-Q1
+"Poland, Republic of","6,556",2016-Q2
+"Poland, Republic of",-408,2016-Q3
+"Poland, Republic of","-1,924",2016-Q4
+"Poland, Republic of","2,864",2017-Q1
+"Poland, Republic of","1,502",2017-Q2
+"Poland, Republic of",778,2017-Q3
+"Poland, Republic of",891,2017-Q4
+"Poland, Republic of","1,177",2018-Q1
+"Poland, Republic of","-3,346",2018-Q2
+"Poland, Republic of","-1,197",2018-Q3
+"Poland, Republic of",-426,2018-Q4
+"Poland, Republic of","-2,757",2019-Q1
+"Poland, Republic of","-1,254",2019-Q2
+"Poland, Republic of","-4,669",2019-Q3
+"Poland, Republic of","-3,701",2019-Q4
+"Poland, Republic of","-1,480",2020-Q1
+"Poland, Republic of","-8,755",2020-Q2
+"Poland, Republic of",274,2020-Q3
+"Poland, Republic of","-1,125",2020-Q4
+"Poland, Republic of","-3,220",2021-Q1
+"Poland, Republic of","-3,362",2021-Q2
+"Poland, Republic of","1,438",2021-Q3
+"Poland, Republic of","-1,699",2021-Q4
+"Poland, Republic of","-3,026",2022-Q1
+"Poland, Republic of","4,693",2022-Q2
+"Poland, Republic of",688,2022-Q3
+"Poland, Republic of","3,226",2022-Q4
+"Poland, Republic of",-644,2023-Q1
+"Poland, Republic of","7,546",2023-Q2
+"Poland, Republic of",-421,2023-Q3
+"Poland, Republic of","3,429",2023-Q4
+"Poland, Republic of","10,437",2024-Q1
+"Poland, Republic of","2,179",2024-Q2
+"Poland, Republic of","1,464",2024-Q3
+"Poland, Republic of","1,120",2024-Q4
+"Poland, Republic of","3,850",2025-Q1
+"Poland, Republic of","2,700",2025-Q2
+"Poland, Republic of","2,825",2025-Q3
+"Poland, Republic of","4,075",2025-Q4
+Russian Federation,563,2000-Q1
+Russian Federation,-528,2000-Q2
+Russian Federation,"-11,655",2000-Q3
+Russian Federation,-440,2000-Q4
+Russian Federation,-122,2001-Q1
+Russian Federation,2,2001-Q2
+Russian Federation,-403,2001-Q3
+Russian Federation,-250,2001-Q4
+Russian Federation,512,2002-Q1
+Russian Federation,188,2002-Q2
+Russian Federation,628,2002-Q3
+Russian Federation,"2,428",2002-Q4
+Russian Federation,"-1,786",2003-Q1
+Russian Federation,"-2,733",2003-Q2
+Russian Federation,"-1,148",2003-Q3
+Russian Federation,"3,339",2003-Q4
+Russian Federation,"3,796",2004-Q1
+Russian Federation,28,2004-Q2
+Russian Federation,-274,2004-Q3
+Russian Federation,879,2004-Q4
+Russian Federation,457,2005-Q1
+Russian Federation,"4,062",2005-Q2
+Russian Federation,"-2,496",2005-Q3
+Russian Federation,"-2,800",2005-Q4
+Russian Federation,"2,087",2006-Q1
+Russian Federation,-55,2006-Q2
+Russian Federation,"10,554",2006-Q3
+Russian Federation,"-2,375",2006-Q4
+Russian Federation,-175,2007-Q1
+Russian Federation,"8,016",2007-Q2
+Russian Federation,"-1,646",2007-Q3
+Russian Federation,"9,197",2007-Q4
+Russian Federation,"-4,629",2008-Q1
+Russian Federation,"1,936",2008-Q2
+Russian Federation,"-9,058",2008-Q3
+Russian Federation,"-16,167",2008-Q4
+Russian Federation,"-3,875",2009-Q1
+Russian Federation,"3,784",2009-Q2
+Russian Federation,"3,494",2009-Q3
+Russian Federation,"5,313",2009-Q4
+Russian Federation,892,2010-Q1
+Russian Federation,"5,651",2010-Q2
+Russian Federation,-570,2010-Q3
+Russian Federation,"-4,025",2010-Q4
+Russian Federation,"5,135",2011-Q1
+Russian Federation,768,2011-Q2
+Russian Federation,"-8,436",2011-Q3
+Russian Federation,"-2,906",2011-Q4
+Russian Federation,"6,303",2012-Q1
+Russian Federation,"1,020",2012-Q2
+Russian Federation,"7,475",2012-Q3
+Russian Federation,"4,515",2012-Q4
+Russian Federation,"3,032",2013-Q1
+Russian Federation,"2,045",2013-Q2
+Russian Federation,"2,321",2013-Q3
+Russian Federation,"-6,651",2013-Q4
+Russian Federation,"-12,349",2014-Q1
+Russian Federation,-335,2014-Q2
+Russian Federation,"-8,111",2014-Q3
+Russian Federation,"-2,408",2014-Q4
+Russian Federation,"-9,415",2015-Q1
+Russian Federation,"1,693",2015-Q2
+Russian Federation,"-2,046",2015-Q3
+Russian Federation,"-3,104",2015-Q4
+Russian Federation,814,2016-Q1
+Russian Federation,"3,219",2016-Q2
+Russian Federation,"2,816",2016-Q3
+Russian Federation,"-3,829",2016-Q4
+Russian Federation,"-2,045",2017-Q1
+Russian Federation,860,2017-Q2
+Russian Federation,"9,893",2017-Q3
+Russian Federation,533,2017-Q4
+Russian Federation,"3,727",2018-Q1
+Russian Federation,"-8,435",2018-Q2
+Russian Federation,"-2,829",2018-Q3
+Russian Federation,"-1,884",2018-Q4
+Russian Federation,"6,768",2019-Q1
+Russian Federation,"10,436",2019-Q2
+Russian Federation,"-1,213",2019-Q3
+Russian Federation,"1,500",2019-Q4
+Russian Federation,"-1,978",2020-Q1
+Russian Federation,"-6,347",2020-Q2
+Russian Federation,"-3,490",2020-Q3
+Russian Federation,675,2020-Q4
+Russian Federation,"-6,564",2021-Q1
+Russian Federation,"-1,252",2021-Q2
+Russian Federation,"2,816",2021-Q3
+Russian Federation,"-9,131",2021-Q4
+Russian Federation,"-10,533",2022-Q1
+Russian Federation,"-1,814",2022-Q2
+Russian Federation,"-3,318",2022-Q3
+Russian Federation,"-16,356",2022-Q4
+Russian Federation,"-4,069",2023-Q1
+Russian Federation,"-1,473",2023-Q2
+Russian Federation,"-2,686",2023-Q3
+Russian Federation,-978,2023-Q4
+Russian Federation,-381,2024-Q1
+Russian Federation,"-1,279",2024-Q2
+Russian Federation,"-1,200",2024-Q3
+Russian Federation,"-1,140",2024-Q4
+Russian Federation,"-1,553",2025-Q1
+Russian Federation,-300,2025-Q2
+Russian Federation,-435,2025-Q3
+Russian Federation,-512,2025-Q4
+Saudi Arabia,…,2000-Q1
+Saudi Arabia,…,2000-Q2
+Saudi Arabia,…,2000-Q3
+Saudi Arabia,…,2000-Q4
+Saudi Arabia,…,2001-Q1
+Saudi Arabia,…,2001-Q2
+Saudi Arabia,…,2001-Q3
+Saudi Arabia,…,2001-Q4
+Saudi Arabia,…,2002-Q1
+Saudi Arabia,…,2002-Q2
+Saudi Arabia,…,2002-Q3
+Saudi Arabia,…,2002-Q4
+Saudi Arabia,…,2003-Q1
+Saudi Arabia,…,2003-Q2
+Saudi Arabia,…,2003-Q3
+Saudi Arabia,…,2003-Q4
+Saudi Arabia,…,2004-Q1
+Saudi Arabia,…,2004-Q2
+Saudi Arabia,…,2004-Q3
+Saudi Arabia,…,2004-Q4
+Saudi Arabia,…,2005-Q1
+Saudi Arabia,…,2005-Q2
+Saudi Arabia,…,2005-Q3
+Saudi Arabia,…,2005-Q4
+Saudi Arabia,338,2006-Q1
+Saudi Arabia,338,2006-Q2
+Saudi Arabia,338,2006-Q3
+Saudi Arabia,338,2006-Q4
+Saudi Arabia,375,2007-Q1
+Saudi Arabia,375,2007-Q2
+Saudi Arabia,375,2007-Q3
+Saudi Arabia,375,2007-Q4
+Saudi Arabia,888,2008-Q1
+Saudi Arabia,905,2008-Q2
+Saudi Arabia,386,2008-Q3
+Saudi Arabia,39,2008-Q4
+Saudi Arabia,-64,2009-Q1
+Saudi Arabia,328,2009-Q2
+Saudi Arabia,-120,2009-Q3
+Saudi Arabia,-150,2009-Q4
+Saudi Arabia,307,2010-Q1
+Saudi Arabia,517,2010-Q2
+Saudi Arabia,265,2010-Q3
+Saudi Arabia,415,2010-Q4
+Saudi Arabia,-439,2011-Q1
+Saudi Arabia,206,2011-Q2
+Saudi Arabia,-340,2011-Q3
+Saudi Arabia,-52,2011-Q4
+Saudi Arabia,377,2012-Q1
+Saudi Arabia,-474,2012-Q2
+Saudi Arabia,"1,011",2012-Q3
+Saudi Arabia,-5,2012-Q4
+Saudi Arabia,689,2013-Q1
+Saudi Arabia,457,2013-Q2
+Saudi Arabia,440,2013-Q3
+Saudi Arabia,196,2013-Q4
+Saudi Arabia,308,2014-Q1
+Saudi Arabia,-572,2014-Q2
+Saudi Arabia,"1,035",2014-Q3
+Saudi Arabia,-569,2014-Q4
+Saudi Arabia,-244,2015-Q1
+Saudi Arabia,626,2015-Q2
+Saudi Arabia,-156,2015-Q3
+Saudi Arabia,-575,2015-Q4
+Saudi Arabia,-345,2016-Q1
+Saudi Arabia,422,2016-Q2
+Saudi Arabia,340,2016-Q3
+Saudi Arabia,"16,421",2016-Q4
+Saudi Arabia,477,2017-Q1
+Saudi Arabia,"10,868",2017-Q2
+Saudi Arabia,"-1,136",2017-Q3
+Saudi Arabia,"11,531",2017-Q4
+Saudi Arabia,"2,626",2018-Q1
+Saudi Arabia,"12,080",2018-Q2
+Saudi Arabia,"4,113",2018-Q3
+Saudi Arabia,"-2,283",2018-Q4
+Saudi Arabia,"8,285",2019-Q1
+Saudi Arabia,"23,604",2019-Q2
+Saudi Arabia,"9,361",2019-Q3
+Saudi Arabia,"6,396",2019-Q4
+Saudi Arabia,"6,184",2020-Q1
+Saudi Arabia,"9,614",2020-Q2
+Saudi Arabia,"3,130",2020-Q3
+Saudi Arabia,"10,933",2020-Q4
+Saudi Arabia,"7,769",2021-Q1
+Saudi Arabia,"8,195",2021-Q2
+Saudi Arabia,"2,023",2021-Q3
+Saudi Arabia,"-1,864",2021-Q4
+Saudi Arabia,"7,290",2022-Q1
+Saudi Arabia,"-3,673",2022-Q2
+Saudi Arabia,-341,2022-Q3
+Saudi Arabia,"9,425",2022-Q4
+Saudi Arabia,"12,837",2023-Q1
+Saudi Arabia,"8,452",2023-Q2
+Saudi Arabia,"1,691",2023-Q3
+Saudi Arabia,"3,396",2023-Q4
+Saudi Arabia,"23,843",2024-Q1
+Saudi Arabia,"5,553",2024-Q2
+Saudi Arabia,…,2024-Q3
+Saudi Arabia,…,2024-Q4
+Saudi Arabia,…,2025-Q1
+Saudi Arabia,…,2025-Q2
+Saudi Arabia,…,2025-Q3
+Saudi Arabia,…,2025-Q4
+South Africa,987,2000-Q1
+South Africa,-195,2000-Q2
+South Africa,"1,172",2000-Q3
+South Africa,-264,2000-Q4
+South Africa,412,2001-Q1
+South Africa,"-3,162",2001-Q2
+South Africa,-30,2001-Q3
+South Africa,-10,2001-Q4
+South Africa,416,2002-Q1
+South Africa,"1,493",2002-Q2
+South Africa,"-1,225",2002-Q3
+South Africa,-175,2002-Q4
+South Africa,-586,2003-Q1
+South Africa,"2,953",2003-Q2
+South Africa,-562,2003-Q3
+South Africa,-807,2003-Q4
+South Africa,762,2004-Q1
+South Africa,"2,450",2004-Q2
+South Africa,455,2004-Q3
+South Africa,"3,506",2004-Q4
+South Africa,"1,194",2005-Q1
+South Africa,"3,734",2005-Q2
+South Africa,"1,334",2005-Q3
+South Africa,-574,2005-Q4
+South Africa,"7,853",2006-Q1
+South Africa,"5,329",2006-Q2
+South Africa,"3,514",2006-Q3
+South Africa,"4,658",2006-Q4
+South Africa,"4,074",2007-Q1
+South Africa,"5,957",2007-Q2
+South Africa,"3,415",2007-Q3
+South Africa,373,2007-Q4
+South Africa,"-2,503",2008-Q1
+South Africa,"2,104",2008-Q2
+South Africa,-924,2008-Q3
+South Africa,"-7,346",2008-Q4
+South Africa,"1,176",2009-Q1
+South Africa,"3,533",2009-Q2
+South Africa,"3,113",2009-Q3
+South Africa,"4,888",2009-Q4
+South Africa,"6,016",2010-Q1
+South Africa,"3,879",2010-Q2
+South Africa,"6,254",2010-Q3
+South Africa,"-1,417",2010-Q4
+South Africa,"5,210",2011-Q1
+South Africa,"5,617",2011-Q2
+South Africa,"1,472",2011-Q3
+South Africa,"3,507",2011-Q4
+South Africa,"4,567",2012-Q1
+South Africa,"5,827",2012-Q2
+South Africa,"4,625",2012-Q3
+South Africa,"7,160",2012-Q4
+South Africa,"3,537",2013-Q1
+South Africa,"1,861",2013-Q2
+South Africa,"7,277",2013-Q3
+South Africa,816,2013-Q4
+South Africa,"2,262",2014-Q1
+South Africa,"4,491",2014-Q2
+South Africa,"6,560",2014-Q3
+South Africa,238,2014-Q4
+South Africa,"4,043",2015-Q1
+South Africa,"3,197",2015-Q2
+South Africa,"1,940",2015-Q3
+South Africa,331,2015-Q4
+South Africa,"2,144",2016-Q1
+South Africa,"3,464",2016-Q2
+South Africa,"3,769",2016-Q3
+South Africa,130,2016-Q4
+South Africa,"1,948",2017-Q1
+South Africa,"5,611",2017-Q2
+South Africa,"6,298",2017-Q3
+South Africa,"7,079",2017-Q4
+South Africa,"6,754",2018-Q1
+South Africa,"1,631",2018-Q2
+South Africa,"1,351",2018-Q3
+South Africa,"-2,562",2018-Q4
+South Africa,"2,198",2019-Q1
+South Africa,679,2019-Q2
+South Africa,"2,418",2019-Q3
+South Africa,762,2019-Q4
+South Africa,"-5,504",2020-Q1
+South Africa,"-3,240",2020-Q2
+South Africa,"-2,397",2020-Q3
+South Africa,"1,464",2020-Q4
+South Africa,-435,2021-Q1
+South Africa,21,2021-Q2
+South Africa,"-24,495",2021-Q3
+South Africa,"-2,707",2021-Q4
+South Africa,"3,729",2022-Q1
+South Africa,"2,397",2022-Q2
+South Africa,"-1,958",2022-Q3
+South Africa,"-1,564",2022-Q4
+South Africa,"-1,543",2023-Q1
+South Africa,"-1,078",2023-Q2
+South Africa,"-2,272",2023-Q3
+South Africa,-486,2023-Q4
+South Africa,"-2,843",2024-Q1
+South Africa,"-1,096",2024-Q2
+South Africa,"3,082",2024-Q3
+South Africa,"8,857",2024-Q4
+South Africa,"4,417",2025-Q1
+South Africa,"1,610",2025-Q2
+South Africa,"4,238",2025-Q3
+South Africa,734,2025-Q4
+Thailand,-73,2000-Q1
+Thailand,188,2000-Q2
+Thailand,-576,2000-Q3
+Thailand,-92,2000-Q4
+Thailand,57,2001-Q1
+Thailand,-405,2001-Q2
+Thailand,-576,2001-Q3
+Thailand,399,2001-Q4
+Thailand,-671,2002-Q1
+Thailand,-335,2002-Q2
+Thailand,861,2002-Q3
+Thailand,-549,2002-Q4
+Thailand,218,2003-Q1
+Thailand,310,2003-Q2
+Thailand,-344,2003-Q3
+Thailand,667,2003-Q4
+Thailand,-195,2004-Q1
+Thailand,94,2004-Q2
+Thailand,"1,118",2004-Q3
+Thailand,839,2004-Q4
+Thailand,"2,314",2005-Q1
+Thailand,"2,037",2005-Q2
+Thailand,"2,210",2005-Q3
+Thailand,"1,425",2005-Q4
+Thailand,"3,160",2006-Q1
+Thailand,275,2006-Q2
+Thailand,"1,835",2006-Q3
+Thailand,533,2006-Q4
+Thailand,"1,032",2007-Q1
+Thailand,"2,101",2007-Q2
+Thailand,"2,402",2007-Q3
+Thailand,"1,107",2007-Q4
+Thailand,-411,2008-Q1
+Thailand,"-4,072",2008-Q2
+Thailand,"-1,684",2008-Q3
+Thailand,"-2,378",2008-Q4
+Thailand,"1,048",2009-Q1
+Thailand,"1,659",2009-Q2
+Thailand,"6,153",2009-Q3
+Thailand,"1,411",2009-Q4
+Thailand,"1,877",2010-Q1
+Thailand,-642,2010-Q2
+Thailand,"3,730",2010-Q3
+Thailand,"2,815",2010-Q4
+Thailand,"3,556",2011-Q1
+Thailand,"-1,458",2011-Q2
+Thailand,"1,361",2011-Q3
+Thailand,445,2011-Q4
+Thailand,"6,270",2012-Q1
+Thailand,969,2012-Q2
+Thailand,"3,301",2012-Q3
+Thailand,-182,2012-Q4
+Thailand,"5,225",2013-Q1
+Thailand,"-5,253",2013-Q2
+Thailand,450,2013-Q3
+Thailand,"-1,789",2013-Q4
+Thailand,"-1,678",2014-Q1
+Thailand,518,2014-Q2
+Thailand,215,2014-Q3
+Thailand,"-3,750",2014-Q4
+Thailand,"-1,609",2015-Q1
+Thailand,"-2,857",2015-Q2
+Thailand,"-4,119",2015-Q3
+Thailand,"-4,106",2015-Q4
+Thailand,"2,578",2016-Q1
+Thailand,-419,2016-Q2
+Thailand,"5,542",2016-Q3
+Thailand,"-6,220",2016-Q4
+Thailand,"2,318",2017-Q1
+Thailand,"1,490",2017-Q2
+Thailand,"5,382",2017-Q3
+Thailand,211,2017-Q4
+Thailand,-882,2018-Q1
+Thailand,"-5,641",2018-Q2
+Thailand,"2,626",2018-Q3
+Thailand,88,2018-Q4
+Thailand,"-1,291",2019-Q1
+Thailand,"2,578",2019-Q2
+Thailand,"-3,685",2019-Q3
+Thailand,"1,452",2019-Q4
+Thailand,"-7,250",2020-Q1
+Thailand,"-1,493",2020-Q2
+Thailand,-758,2020-Q3
+Thailand,"1,611",2020-Q4
+Thailand,419,2021-Q1
+Thailand,-75,2021-Q2
+Thailand,187,2021-Q3
+Thailand,"4,335",2021-Q4
+Thailand,"3,890",2022-Q1
+Thailand,880,2022-Q2
+Thailand,-408,2022-Q3
+Thailand,"3,848",2022-Q4
+Thailand,"-2,826",2023-Q1
+Thailand,"-3,048",2023-Q2
+Thailand,"-3,468",2023-Q3
+Thailand,"-1,047",2023-Q4
+Thailand,"2,234",2024-Q1
+Thailand,"-2,235",2024-Q2
+Thailand,"2,320",2024-Q3
+Thailand,"-1,819",2024-Q4
+Thailand,"-1,400",2025-Q1
+Thailand,"-1,400",2025-Q2
+Thailand,"-1,400",2025-Q3
+Thailand,"-1,300",2025-Q4
+"Türkiye, Republic of","1,989",2000-Q1
+"Türkiye, Republic of","1,945",2000-Q2
+"Türkiye, Republic of","2,702",2000-Q3
+"Türkiye, Republic of","-5,021",2000-Q4
+"Türkiye, Republic of","-2,846",2001-Q1
+"Türkiye, Republic of",-437,2001-Q2
+"Türkiye, Republic of",-606,2001-Q3
+"Türkiye, Republic of",162,2001-Q4
+"Türkiye, Republic of","1,173",2002-Q1
+"Türkiye, Republic of",-471,2002-Q2
+"Türkiye, Republic of",-223,2002-Q3
+"Türkiye, Republic of","1,024",2002-Q4
+"Türkiye, Republic of",-146,2003-Q1
+"Türkiye, Republic of","1,455",2003-Q2
+"Türkiye, Republic of","2,211",2003-Q3
+"Türkiye, Republic of",331,2003-Q4
+"Türkiye, Republic of","2,659",2004-Q1
+"Türkiye, Republic of","1,023",2004-Q2
+"Türkiye, Republic of","1,347",2004-Q3
+"Türkiye, Republic of","4,382",2004-Q4
+"Türkiye, Republic of","4,934",2005-Q1
+"Türkiye, Republic of","2,972",2005-Q2
+"Türkiye, Republic of","2,397",2005-Q3
+"Türkiye, Republic of","4,367",2005-Q4
+"Türkiye, Republic of","3,885",2006-Q1
+"Türkiye, Republic of","-4,419",2006-Q2
+"Türkiye, Republic of","5,383",2006-Q3
+"Türkiye, Republic of","6,553",2006-Q4
+"Türkiye, Republic of","5,154",2007-Q1
+"Türkiye, Republic of","1,893",2007-Q2
+"Türkiye, Republic of",-630,2007-Q3
+"Türkiye, Republic of","-3,637",2007-Q4
+"Türkiye, Republic of",-822,2008-Q1
+"Türkiye, Republic of","2,817",2008-Q2
+"Türkiye, Republic of",-67,2008-Q3
+"Türkiye, Republic of","-5,698",2008-Q4
+"Türkiye, Republic of","-2,081",2009-Q1
+"Türkiye, Republic of","2,703",2009-Q2
+"Türkiye, Republic of","2,006",2009-Q3
+"Türkiye, Republic of",310,2009-Q4
+"Türkiye, Republic of","3,580",2010-Q1
+"Türkiye, Republic of","4,125",2010-Q2
+"Türkiye, Republic of","7,762",2010-Q3
+"Türkiye, Republic of","4,150",2010-Q4
+"Türkiye, Republic of","8,588",2011-Q1
+"Türkiye, Republic of","6,186",2011-Q2
+"Türkiye, Republic of","-1,426",2011-Q3
+"Türkiye, Republic of","6,168",2011-Q4
+"Türkiye, Republic of","4,449",2012-Q1
+"Türkiye, Republic of","6,035",2012-Q2
+"Türkiye, Republic of","12,083",2012-Q3
+"Türkiye, Republic of","15,805",2012-Q4
+"Türkiye, Republic of","7,216",2013-Q1
+"Türkiye, Republic of","8,825",2013-Q2
+"Türkiye, Republic of",736,2013-Q3
+"Türkiye, Republic of","4,642",2013-Q4
+"Türkiye, Republic of","-1,952",2014-Q1
+"Türkiye, Republic of","13,467",2014-Q2
+"Türkiye, Republic of","2,984",2014-Q3
+"Türkiye, Republic of","6,463",2014-Q4
+"Türkiye, Republic of","-1,023",2015-Q1
+"Türkiye, Republic of",-82,2015-Q2
+"Türkiye, Republic of","-4,985",2015-Q3
+"Türkiye, Republic of","-3,130",2015-Q4
+"Türkiye, Republic of","3,266",2016-Q1
+"Türkiye, Republic of","5,883",2016-Q2
+"Türkiye, Republic of",-683,2016-Q3
+"Türkiye, Republic of",-383,2016-Q4
+"Türkiye, Republic of","4,387",2017-Q1
+"Türkiye, Republic of","13,555",2017-Q2
+"Türkiye, Republic of","4,622",2017-Q3
+"Türkiye, Republic of","1,293",2017-Q4
+"Türkiye, Republic of","2,940",2018-Q1
+"Türkiye, Republic of","-2,687",2018-Q2
+"Türkiye, Republic of","-2,282",2018-Q3
+"Türkiye, Republic of","2,205",2018-Q4
+"Türkiye, Republic of","8,627",2019-Q1
+"Türkiye, Republic of","-4,902",2019-Q2
+"Türkiye, Republic of",973,2019-Q3
+"Türkiye, Republic of","-1,119",2019-Q4
+"Türkiye, Republic of","-2,967",2020-Q1
+"Türkiye, Republic of","-10,851",2020-Q2
+"Türkiye, Republic of","-1,308",2020-Q3
+"Türkiye, Republic of","8,464",2020-Q4
+"Türkiye, Republic of","-1,195",2021-Q1
+"Türkiye, Republic of","2,866",2021-Q2
+"Türkiye, Republic of","5,183",2021-Q3
+"Türkiye, Republic of","-3,843",2021-Q4
+"Türkiye, Republic of","-2,202",2022-Q1
+"Türkiye, Republic of","-5,122",2022-Q2
+"Türkiye, Republic of","-3,898",2022-Q3
+"Türkiye, Republic of","2,045",2022-Q4
+"Türkiye, Republic of","1,075",2023-Q1
+"Türkiye, Republic of",-416,2023-Q2
+"Türkiye, Republic of","3,040",2023-Q3
+"Türkiye, Republic of","7,512",2023-Q4
+"Türkiye, Republic of","9,688",2024-Q1
+"Türkiye, Republic of","8,998",2024-Q2
+"Türkiye, Republic of","9,336",2024-Q3
+"Türkiye, Republic of","1,778",2024-Q4
+"Türkiye, Republic of","5,900",2025-Q1
+"Türkiye, Republic of","6,400",2025-Q2
+"Türkiye, Republic of","8,250",2025-Q3
+"Türkiye, Republic of","-1,050",2025-Q4
+Ukraine,231,2000-Q1
+Ukraine,-172,2000-Q2
+Ukraine,20,2000-Q3
+Ukraine,63,2000-Q4
+Ukraine,-50,2001-Q1
+Ukraine,71,2001-Q2
+Ukraine,-62,2001-Q3
+Ukraine,-5,2001-Q4
+Ukraine,-54,2002-Q1
+Ukraine,42,2002-Q2
+Ukraine,-125,2002-Q3
+Ukraine,472,2002-Q4
+Ukraine,-193,2003-Q1
+Ukraine,840,2003-Q2
+Ukraine,-131,2003-Q3
+Ukraine,350,2003-Q4
+Ukraine,450,2004-Q1
+Ukraine,150,2004-Q2
+Ukraine,"1,316",2004-Q3
+Ukraine,157,2004-Q4
+Ukraine,393,2005-Q1
+Ukraine,924,2005-Q2
+Ukraine,93,2005-Q3
+Ukraine,"1,347",2005-Q4
+Ukraine,3,2006-Q1
+Ukraine,-140,2006-Q2
+Ukraine,370,2006-Q3
+Ukraine,"3,353",2006-Q4
+Ukraine,"1,834",2007-Q1
+Ukraine,"1,486",2007-Q2
+Ukraine,619,2007-Q3
+Ukraine,"1,843",2007-Q4
+Ukraine,217,2008-Q1
+Ukraine,154,2008-Q2
+Ukraine,-693,2008-Q3
+Ukraine,-970,2008-Q4
+Ukraine,-350,2009-Q1
+Ukraine,-347,2009-Q2
+Ukraine,"-1,759",2009-Q3
+Ukraine,931,2009-Q4
+Ukraine,-294,2010-Q1
+Ukraine,785,2010-Q2
+Ukraine,"2,579",2010-Q3
+Ukraine,"1,289",2010-Q4
+Ukraine,"1,164",2011-Q1
+Ukraine,"1,849",2011-Q2
+Ukraine,-905,2011-Q3
+Ukraine,-491,2011-Q4
+Ukraine,272,2012-Q1
+Ukraine,-367,2012-Q2
+Ukraine,"2,890",2012-Q3
+Ukraine,"1,966",2012-Q4
+Ukraine,"2,858",2013-Q1
+Ukraine,"1,727",2013-Q2
+Ukraine,540,2013-Q3
+Ukraine,"3,657",2013-Q4
+Ukraine,-398,2014-Q1
+Ukraine,-174,2014-Q2
+Ukraine,62,2014-Q3
+Ukraine,"-2,191",2014-Q4
+Ukraine,-330,2015-Q1
+Ukraine,464,2015-Q2
+Ukraine,-96,2015-Q3
+Ukraine,332,2015-Q4
+Ukraine,-57,2016-Q1
+Ukraine,-5,2016-Q2
+Ukraine,819,2016-Q3
+Ukraine,-541,2016-Q4
+Ukraine,-68,2017-Q1
+Ukraine,274,2017-Q2
+Ukraine,"1,444",2017-Q3
+Ukraine,153,2017-Q4
+Ukraine,528,2018-Q1
+Ukraine,-51,2018-Q2
+Ukraine,450,2018-Q3
+Ukraine,"1,186",2018-Q4
+Ukraine,210,2019-Q1
+Ukraine,"1,184",2019-Q2
+Ukraine,"2,768",2019-Q3
+Ukraine,"1,383",2019-Q4
+Ukraine,"1,651",2020-Q1
+Ukraine,"-1,833",2020-Q2
+Ukraine,-868,2020-Q3
+Ukraine,373,2020-Q4
+Ukraine,230,2021-Q1
+Ukraine,"2,065",2021-Q2
+Ukraine,"-1,823",2021-Q3
+Ukraine,482,2021-Q4
+Ukraine,-938,2022-Q1
+Ukraine,-167,2022-Q2
+Ukraine,-77,2022-Q3
+Ukraine,-203,2022-Q4
+Ukraine,-158,2023-Q1
+Ukraine,-25,2023-Q2
+Ukraine,-148,2023-Q3
+Ukraine,-151,2023-Q4
+Ukraine,-142,2024-Q1
+Ukraine,-330,2024-Q2
+Ukraine,-579,2024-Q3
+Ukraine,554,2024-Q4
+Ukraine,312,2025-Q1
+Ukraine,303,2025-Q2
+Ukraine,200,2025-Q3
+Ukraine,189,2025-Q4
