@@ -1,4 +1,4 @@
-# emerging-market-capital-flow-prediction
+# EM Portfolio Investment Reversal Prediction
 Overview
 
 Emerging market economies are periodically exposed to sharp reversals in non-resident portfolio investment, often with consequences for exchange rates, credit conditions, and economic output.
